@@ -4,3 +4,4 @@
 * [Patches](patches.md)
 * [Racks](racks.md)
 * [Modules](modules.md)
+* [Contact us / Help / Community](contact-us-help-community.md)
