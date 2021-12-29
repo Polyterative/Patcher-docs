@@ -1,6 +1,6 @@
 # Patches
 
-### Creating a patch
+## Creating a patch
 
 1. Create an account and sign in
 2. Go to Collection (top right)
