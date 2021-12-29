@@ -1,3 +1,6 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [FAQ](README.md)
+* [Patches](patches.md)
+* [Racks](racks.md)
+* [Modules](modules.md)
