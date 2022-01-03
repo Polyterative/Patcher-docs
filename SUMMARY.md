@@ -5,3 +5,4 @@
 * [Racks](racks.md)
 * [Modules](modules.md)
 * [Contact us / Help / Community](contact-us-help-community.md)
+* [Modular Glossary](modular-glossary.md)
