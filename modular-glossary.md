@@ -96,7 +96,7 @@ In a modular synth, control voltages tend to be continuous in nature, while gate
 
 **Low Pass Gate**&#x20;
 
-By strict definition, a low pass gate (LPG) is a low pass filter whose cutoff frequency goes down into the subsonic range as its control voltage goes towards 0 volts, resulting in the input signal being filtered almost into silence. Some replicate this by combining a low pass filter and a voltage controlled amplifier into the same module, with both following the same control voltage. In either case, as an input envelope falls from a high level to 0 volts, the output gets duller (higher harmonics are filtered more) as it falls to silence. This mimics the way many natural sounds work. Click through for more details and examples, including a discussion of vactrols which are often used in low pass gates.
+By strict definition, a low pass gate (LPG) is a low pass filter whose cutoff frequency goes down into the subsonic range as its control voltage goes towards 0 volts, resulting in the input signal being filtered almost into silence. Some replicate this by combining a low pass filter and a voltage controlled amplifier into the same module, with both following the same control voltage. In either case, as an input envelope falls from a high level to 0 volts, the output gets duller (higher harmonics are filtered more) as it falls to silence. This mimics the way many natural sounds work.
 
 **Normalled**&#x20;
 
