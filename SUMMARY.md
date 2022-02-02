@@ -1,6 +1,7 @@
 # Table of contents
 
 * [FAQ](README.md)
+* [Quick start](quick-start.md)
 * [Patches](patches.md)
 * [Racks](racks.md)
 * [Modules](modules.md)
