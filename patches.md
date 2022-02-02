@@ -1,5 +1,7 @@
 # Patches
 
+![patch builder view](.gitbook/assets/blank\_-\_Patch\_Details\_\_patcher.xyz\_-\_Google\_Chrom\_\_2022-02-02\_18-30.png)
+
 ## Creating a patch
 
 1. Create an account and sign in
