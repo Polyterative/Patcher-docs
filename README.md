@@ -1,10 +1,10 @@
 # Press release
 
-![](<.gitbook/assets/patcher\_promo\_280122 (1).png>)
+![](<.gitbook/assets/patcher\_promo\_280122 (1) (Small).png>)
 
-![](<.gitbook/assets/patcher\_promo\_280122 (2).png>)
+![](<.gitbook/assets/patcher\_promo\_280122 (2) (Small).png>)
 
-![](<.gitbook/assets/patcher\_promo\_280122 (3).png>)
+![](<.gitbook/assets/patcher\_promo\_280122 (3) (Small).png>)
 
 After a decade of stagnation in this space we are excited to present patcher.xyz: the modern way to manage everything modular.
 
