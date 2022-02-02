@@ -1,34 +1,87 @@
-# FAQ
+# Press release
 
-## What is patcher.xyz?
+![](<.gitbook/assets/patcher\_promo\_280122 (1).png>)
 
-This project solves the problem of transcribing and sharing patch notes to save them or simply to send them to someone. No more typing!
+![](<.gitbook/assets/patcher\_promo\_280122 (2).png>)
 
-## What can I do?
+![](<.gitbook/assets/patcher\_promo\_280122 (3).png>)
 
-The patch builder allows connecting CV inputs and CV outputs in an easy and fast way.
+After a decade of stagnation in this space we are excited to present patcher.xyz: the modern way to manage everything modular.
 
-You can then share the URL or save the list of connections as text. Patches are saved on the website itself and can be shared in with a simple link.
+It’s a tool for professionals, enthusiasts, and casual wigglers.
 
-#### But doesn't this require having a list of all modules and their information?
+Novadays artists must develop their own means of taking notes, often on paper, since there is no common format for sharing ideas. Although there is nothing wrong with that, we believe we have found a better way.
 
-\
-Yes, however, we are not starting from scratch!&#x20;
+We wanted our patch ideas to be searchable, editable and easily-shareable. We needed an easier way to plan our racks, without creating a mess. We needed to be able to find awesome modules fitting our style and feel, without being lost in the ocean of different options. We made it a reality.
 
-Since one of the objectives is to maintain a database of inputs and outputs of each module, we ask for the help of the community to map all modules' CVs. We already have a lot of data mapped and ready.
+Patcher.xyz was built to provide a fast and enjoyable experience while bypassing the limitations of current offerings. Our vision is to build a platform to assist you in any part of your wiggling experience: from research, to planning, to buying or trading gear, to sharing your new ideas and music.
 
-## Great! How i can help?
+Here is the current status of the project:
 
-We are currently making the first public announcements of this idea and collecting some initial feedback from testers so I would like to know what you think about this idea and if you are interested in the project.
+✅ - available now
 
-If you want to stay updated on the progress of development the best way is to subscribe to the discord channel that is the central communication hub.
+🚧 - planned
 
-## Link please?
+💬 - community feedback wanted
 
-[https://patcher.xyz/](https://patcher.xyz/home)
+* 🔵General
+  * ✅ No ads/premium options
+  * ✅ The fastest navigation experience possible
+  * ✅ State of the art UX and UI design
+  * ✅ Mobile support
+  * ✅ No personal data collection (anonymized usage and software stability only)
+  * 🚧 Specific manufacturer page (with customizable branding)
+* 🔵User Profile
+  * ✅ Create your personal account
+  * ✅ Create racks and patches
+  * ✅ See your collection, with saved modules and built racks and patches
+  * 🚧 See other people’s profile
+  * 🚧 See other people’s profile
+  * 🚧 Specific manufacturer page (with customizable branding)
+  * 💬 marketplace
+* 🔵Patches
+  * ✅ Build/plan your patches, with any number of modules, regardless of the rack
+  * ✅ Interactive click-to-patch builder with notes
+  * ✅ Visualize the signal flow, with our unique graph visualizer
+  * ✅ Share your patch with a link
+  * ✅ Explore and search for other people‘s ideas
+  * ✅ Search in public database
+  * 🚧 Clone to edit
+  * 🚧 Generate patch idea with a generative algorhythm
+  * 💬 Detect feedback loops
+  * 🚧 Detect power incompatibilities (max10v envelope in max5V input)
+  * 🚧 Private patches
+* 🔵 Racks
+  * ✅ Plan your rack, with a visual builder
+  * ✅ Use both 1U and 3U modules, both **Intellijel** and **PulpLogic**
+  * ✅ Drag and drop to organize modules in a rack, with auto-ordering
+  * ✅ Duplicate/Delete modules in rack
+  * ✅ See stats of your rack such as number of modules used
+  * ✅ Lock/unlock rack changes
+  * ✅ Share your rack with a link
+  * ✅ Explore and search for other people‘s ideas
+  * ✅ Search in public database
+  * 🚧 Clone to edit
+  * 🚧 Rack power usage stats
+  * 🚧 Private racks
+* 🔵 Modules
+  * ✅ Find almost 4000 most popular modules
+  * ✅ Search feature with filter by manufacturer,size,name
+  * ✅ Save module to collection
+  * ✅ Track modules INs and OUTs with Voltages
+  * ✅ See patches/racks with this module
+  * ✅ See module manual with a click
+  * ✅ Search on google with a click
+  * 🚧 Search: filter by style,looks,nature
+  * 🚧 Specific manufacturer mode (with customizable branding)
+  * 💬 Track power stats
+  * 💬 Track modules switches and knobs positions
+  * 💬 Track prices
+  * 💬 See availability in stores
+  * 💬 Stores integrations
 
-## Is there a Discord?
+Useful links:
 
-Yes!&#x20;
+✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz)
 
-[https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz) 💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz) 🔺 Community:[https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
