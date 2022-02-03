@@ -1,5 +1,7 @@
 # Racks
 
+![](<../.gitbook/assets/patcher\_promo\_280122 (2) (Small).png>)
+
 ## Create a rack
 
 * navigate to “collection”

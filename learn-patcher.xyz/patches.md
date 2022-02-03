@@ -1,6 +1,6 @@
 # Patches
 
-![patch builder view](../.gitbook/assets/blank\_-\_Patch\_Details\_\_patcher.xyz\_-\_Google\_Chrom\_\_2022-02-02\_18-30.png)
+![](<../.gitbook/assets/patcher\_promo\_280122 (1) (Small).png>)
 
 ## Creating a patch
 

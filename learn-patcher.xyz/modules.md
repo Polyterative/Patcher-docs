@@ -1,5 +1,7 @@
 # Modules
 
+![](<../.gitbook/assets/patcher\_promo\_280122 (3) (Small).png>)
+
 ## Add modules to collection
 
 * create an account
