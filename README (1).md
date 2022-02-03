@@ -32,3 +32,7 @@ If you want to stay updated on the progress of development the best way is to su
 Yes!&#x20;
 
 [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+
+{% content-ref url="contact-us-help-community.md" %}
+[contact-us-help-community.md](contact-us-help-community.md)
+{% endcontent-ref %}

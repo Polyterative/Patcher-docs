@@ -32,3 +32,27 @@
 * Click on the INs and OUTs to select a connection
 * Confirm connection
 * Save patch
+
+### More info:
+
+{% content-ref url="patches.md" %}
+[patches.md](patches.md)
+{% endcontent-ref %}
+
+{% content-ref url="racks.md" %}
+[racks.md](racks.md)
+{% endcontent-ref %}
+
+{% content-ref url="modules.md" %}
+[modules.md](modules.md)
+{% endcontent-ref %}
+
+### Useful links:
+
+✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz)
+
+🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz)
+
+💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz)&#x20;
+
+🔺 Community: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
