@@ -35,16 +35,16 @@
 
 ### More info:
 
-{% content-ref url="patches.md" %}
-[patches.md](patches.md)
+{% content-ref url="../learn-patcher.xyz/patches.md" %}
+[patches.md](../learn-patcher.xyz/patches.md)
 {% endcontent-ref %}
 
-{% content-ref url="racks.md" %}
-[racks.md](racks.md)
+{% content-ref url="../learn-patcher.xyz/racks.md" %}
+[racks.md](../learn-patcher.xyz/racks.md)
 {% endcontent-ref %}
 
-{% content-ref url="modules.md" %}
-[modules.md](modules.md)
+{% content-ref url="../learn-patcher.xyz/modules.md" %}
+[modules.md](../learn-patcher.xyz/modules.md)
 {% endcontent-ref %}
 
 ### Useful links:

@@ -1,12 +1,23 @@
 # Table of contents
 
-* [Press release](README.md)
-* [FAQ](<README (1).md>)
-* [Quick start](quick-start.md)
-* [Patches](patches.md)
-* [Racks](racks.md)
-* [Modules](modules.md)
-* [Modular Glossary](modular-glossary.md)
-* [Contact us / Help / Community](contact-us-help-community.md)
-* [High res official images](high-res-official-images.md)
-* [Development status](development-status.md)
+## WHAT IS THIS
+
+* [FAQ](README.md)
+* [Quick start](what-is-this/quick-start.md)
+
+## LEARN PATCHER.XYZ
+
+* [Patches](learn-patcher.xyz/patches.md)
+* [Modules](learn-patcher.xyz/modules.md)
+* [Racks](learn-patcher.xyz/racks.md)
+
+## THE PROJECT
+
+* [Development status](the-project/development-status.md)
+* [Contact us / Help / Community](the-project/contact-us-help-community.md)
+* [High res official images](the-project/high-res-official-images.md)
+* [Press release](the-project/press-release.md)
+
+## LEARN
+
+* [Modular Glossary](learn/modular-glossary.md)

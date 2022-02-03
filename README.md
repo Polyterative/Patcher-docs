@@ -1,27 +1,38 @@
-# Press release
+# FAQ
 
-![](<.gitbook/assets/patcher\_promo\_280122 (1) (Small).png>)
+## What is patcher.xyz?
 
-![](<.gitbook/assets/patcher\_promo\_280122 (2) (Small).png>)
+This project solves the problem of transcribing and sharing patch notes to save them or simply to send them to someone. No more typing!
 
-![](<.gitbook/assets/patcher\_promo\_280122 (3) (Small).png>)
+## What can I do?
 
-After a decade of stagnation in this space we are excited to present patcher.xyz: the modern way to manage everything modular.
+The patch builder allows connecting CV inputs and CV outputs in an easy and fast way.
 
-It’s a tool for professionals, enthusiasts, and casual wigglers.
+You can then share the URL or save the list of connections as text. Patches are saved on the website itself and can be shared in with a simple link.
 
-Novadays artists must develop their own means of taking notes, often on paper, since there is no common format for sharing ideas. Although there is nothing wrong with that, we believe we have found a better way.
+#### But doesn't this require having a list of all modules and their information?
 
-We wanted our patch ideas to be searchable, editable and easily-shareable. We needed an easier way to plan our racks, without creating a mess. We needed to be able to find awesome modules fitting our style and feel, without being lost in the ocean of different options. We made it a reality.
+\
+Yes, however, we are not starting from scratch!&#x20;
 
-Patcher.xyz was built to provide a fast and enjoyable experience while bypassing the limitations of current offerings. Our vision is to build a platform to assist you in any part of your wiggling experience: from research, to planning, to buying or trading gear, to sharing your new ideas and music.
+Since one of the objectives is to maintain a database of inputs and outputs of each module, we ask for the help of the community to map all modules' CVs. We already have a lot of data mapped and ready.
 
-Useful links:
+## Great! How i can help?
 
-✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz)
+We are currently making the first public announcements of this idea and collecting some initial feedback from testers so I would like to know what you think about this idea and if you are interested in the project.
 
-🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz)
+If you want to stay updated on the progress of development the best way is to subscribe to the discord channel that is the central communication hub.
 
-💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz)&#x20;
+## Link please?
 
-🔺 Community: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+[https://patcher.xyz/](https://patcher.xyz/home)
+
+## Is there a Discord?
+
+Yes!&#x20;
+
+[https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+
+{% content-ref url="the-project/contact-us-help-community.md" %}
+[contact-us-help-community.md](the-project/contact-us-help-community.md)
+{% endcontent-ref %}
