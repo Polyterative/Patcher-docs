@@ -23,6 +23,8 @@ coverY: 0
 
 ## Edit a rack
 
+{% embed url="https://www.youtube.com/watch?v=ZVi0Tw1Nj_Y" %}
+
 * Open rack
 * Click on the little lock button to lock/unlock
 * Drag and drop to move modules in rack

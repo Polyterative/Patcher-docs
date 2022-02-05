@@ -15,6 +15,10 @@ coverY: 0
 
 ![creating a patch](../.gitbook/assets/2021-12-29\_09-06-35.gif)
 
+## Editing a patch
+
+{% embed url="https://youtu.be/73NsKI4eXLc" %}
+
 ## Add connections to a patch
 
 1. Create a patch
@@ -30,4 +34,3 @@ coverY: 0
 2. Look at the list of connections
 3. Click on the button to remove
 4. Save
-
