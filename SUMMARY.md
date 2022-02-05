@@ -13,6 +13,7 @@
 
 ## THE PROJECT
 
+* [Changelog](the-project/changelog.md)
 * [Development status](the-project/development-status.md)
 * [Contact us / Help / Community](the-project/contact-us-help-community.md)
 * [High res official images](the-project/high-res-official-images.md)
