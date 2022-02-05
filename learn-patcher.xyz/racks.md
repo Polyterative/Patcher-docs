@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/patcher_promo_280122 (2).png
+coverY: 0
+---
+
 # Racks
 
 ![](<../.gitbook/assets/patcher\_promo\_280122 (2) (Small).png>)

@@ -1,3 +1,8 @@
+---
+cover: ../.gitbook/assets/patcher_promo_280122 (3).png
+coverY: 0
+---
+
 # Modules
 
 ![](<../.gitbook/assets/patcher\_promo\_280122 (3) (Small).png>)
