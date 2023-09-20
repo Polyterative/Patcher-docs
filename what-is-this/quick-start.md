@@ -24,7 +24,7 @@
 3. Click on “Create Patch” to start crafting a new patch.
 4. Once it's ready, open your new patch.
 
-## Connecting the Dots in Your Patch
+## Add Connections to a Patch
 
 1. First, create a patch.
 2. Add some modules to your collection.
