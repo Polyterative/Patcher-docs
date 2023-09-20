@@ -38,4 +38,4 @@ Here!
 
 [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
 
-[contact-us-help-community.md](https://github.com/Polyterative/Patcher-docs/blob/main/the-project/contact-us-help-community.md)
+[Contact us](https://github.com/Polyterative/Patcher-docs/blob/main/the-project/contact-us-help-community.md)
