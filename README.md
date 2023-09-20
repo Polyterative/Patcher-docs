@@ -2,6 +2,8 @@
 
 ## What is patcher.xyz?
 
+![Patcher Promo Image](.gitbook/assets/patcher_promo_4.png)
+
 This project solves the problem of transcribing and sharing patch notes to save them or simply to send them to someone. No more typing!
 
 Patches are built by clicking the INs and OUTs of modules added to your collection in the "Patch Builder". You can then see the signal flow in our unique graph visualizer.
@@ -14,7 +16,7 @@ The patch builder allows connecting CV inputs and CV outputs in an easy and fast
 
 You can then share the URL or save the list of connections as text. Patches are saved on the website itself and can be shared with a simple link.
 
-#### But doesn't this require having a list of all modules and their information?
+### But doesn't this require having a list of all modules and their information?
 
 Yes, however, we are not starting from scratch!
 
