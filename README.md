@@ -1,7 +1,5 @@
 # FAQ
 
-![](.gitbook/assets/patcher_promo_4.png)
-
 ## What is patcher.xyz?
 
 This project solves the problem of transcribing and sharing patch notes to save them or simply to send them to someone. No more typing!
