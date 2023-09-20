@@ -1,58 +1,36 @@
 # Quick start
 
-## Create a patch
+## Getting Started
 
-* create an account
-* navigate to “modules”
-* open your module
-* click on the “+” button to add to your collection
-* navigate to “collection”
-* click “Create Patch”
-* Open your new patch
+1. **Create an Account**: Sign up to get started.
+2. **Navigate to Modules**: Find the "modules" section in your dashboard.
+3. **Open Your Module**: Choose the module you want to work with.
+4. **Add to Your Collection**: Click on the "+" button to add the module to your collection.
 
-## Add modules to collection
+## Creating a Patch
 
-* create an account
-* navigate to “modules”
-* open your module
-* click on the “+” button to add to your collection
+1. **Navigate to Collection**: Go to your collection where you've added your modules.
+2. **Create a Patch**: Click on "Create Patch" to start creating a patch.
+3. **Open Your New Patch**: Your new patch is ready! Open it to start working on it.
 
-## Create a patch
+## Adding Connections to a Patch
 
-* add modules to your collection
-* navigate to “collection”
-* click “Create Patch”
-* Open your new patch
+1. **Verify Module Connections**: Make sure your modules have tracked INs and OUTs. If they're missing, add them.
+2. **Select a Connection**: Click on the INs and OUTs to select a connection.
+3. **Confirm Connection**: Once you've selected a connection, confirm it.
+4. **Save Your Patch**: Don't forget to save your patch after adding connections.
 
-## Add connections to a patch
+### Dive Deeper
 
-* Create a patch
-* Add modules to collection
-* Verify that modules already have tracked INs and OUTs (add if missing)
-* Click on the INs and OUTs to select a connection
-* Confirm connection
-* Save patch
+Want to learn more? Check out these resources:
 
-### More info:
+- **Patches**: Learn more about patches in our [guide](../learn-patcher.xyz/patches.md).
+- **Racks**: Get to know more about racks in our [tutorial](../learn-patcher.xyz/racks.md).
+- **Modules**: Understand more about modules in our [documentation](../learn-patcher.xyz/modules.md).
 
-{% content-ref url="../learn-patcher.xyz/patches.md" %}
-[patches.md](../learn-patcher.xyz/patches.md)
-{% endcontent-ref %}
+### Handy Links
 
-{% content-ref url="../learn-patcher.xyz/racks.md" %}
-[racks.md](../learn-patcher.xyz/racks.md)
-{% endcontent-ref %}
-
-{% content-ref url="../learn-patcher.xyz/modules.md" %}
-[modules.md](../learn-patcher.xyz/modules.md)
-{% endcontent-ref %}
-
-### Useful links:
-
-✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz)
-
-🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz)
-
-💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz)&#x20;
-
-🔺 Community: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+- **Try the Tool**: Ready to get started? [Try our tool](https://patcher.xyz/).
+- **Support Docs**: Need help? Check out our [support docs](https://docs.patcher.xyz/).
+- **FAQ**: Got questions? Find answers in our [FAQ](https://docs.patcher.xyz/).
+- **Community**: Join our [community on Discord](https://discord.gg/pYz3gagUDA) to connect with other users.
