@@ -26,7 +26,7 @@ We're always open to feedback and suggestions for improvement. The best way to c
 
 ### How can I report issues?
 
-If you encounter any issues while using patcher.xyz, please report them on our Github issue tracker. We appreciate your help in making our platform better.
+If you encounter any issues while using patcher.xyz, please report them on our discord server. We appreciate your help in making our platform better.
 
 ### How can I request features?
 
