@@ -5,19 +5,19 @@ coverY: 0
 
 # Modules
 
-![](<../.gitbook/assets/patcher\_promo\_280122 (3) (Small).png>)
+![](<../.gitbook/assets/patcher_promo_280122 (3) (Small).png>)
 
-## Add modules to collection
+## Adding Modules to Your Collection
 
-* create an account
-* navigate to “modules”
-* open your module
-* click on the “+” button to add to your collection
+- Begin by creating an account if you haven't done so already.
+- Once logged in, navigate to the “modules” section.
+- Browse through the available modules and open the one you're interested in.
+- To add the module to your collection, simply click on the “+” button.
 
-## Add modules to a rack
+## Adding Modules to a Rack
 
-* Create a rack
-* navigate to “modules”
-* Search for a module, open it
-* Click on the ‘add to rack’
-* Confirm
+- Start by creating a new rack.
+- After that, navigate to the “modules” section.
+- Use the search function to find a specific module, then open it.
+- To add the module to your rack, click on the ‘add to rack’ button.
+- Confirm your selection to finalize the addition.
