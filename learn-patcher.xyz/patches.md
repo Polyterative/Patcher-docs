@@ -5,8 +5,6 @@ coverY: 0
 
 # Patches
 
-![](<../.gitbook/assets/patcher_promo_280122 (1) (Small).png>)
-
 ## Creating a patch
 
 Creating a patch is a simple process that involves three steps. Here's how you can do it:
