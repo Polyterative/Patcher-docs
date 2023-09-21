@@ -1,9 +1,11 @@
 ---
-cover: ../.gitbook/assets/patcher_promo_280122 (1) (Small).png
+cover: ../.gitbook/assets/patcher_promo_280122 (1).png
 coverY: 0
 ---
 
 # Patches
+
+![](<../.gitbook/assets/patcher\_promo\_280122 (1) (Small).png>)
 
 ## Creating a patch
 
