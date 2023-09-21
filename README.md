@@ -30,7 +30,7 @@ If you encounter any issues while using patcher.xyz, please report them on our d
 
 ### How can I request features?
 
-Feature requests are welcome! You can submit your ideas on our Github issue tracker or discuss them in our discord channel.
+Feature requests are welcome! You can submit your ideas and discuss them in our discord channel.
 
 ## Where can I try patcher.xyz?
 
