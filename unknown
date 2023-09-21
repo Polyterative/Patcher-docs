@@ -1,0 +1,19 @@
+import os
+import fileinput
+
+def replace_typo_in_files(root_dir):
+    for foldername, subfolders, filenames in os.walk(root_dir):
+        for filename in filenames:
+            file_path = os.path.join(foldername, filename)
+            with fileinput.FileInput(file_path, inplace=True, backup='.bak') as file:
+                for line in file:
+                    if "CURRENT: LANCHED!" in line:
+                        print(f"Found typo in file: {file_path}")
+                        print(line.replace("CURRENT: LANCHED!", "CURRENT: LAUNCHED!"), end='')
+                    else:
+                        print(line, end='')
+
+if __name__ == "__main__":
+    import sys
+    root_dir = sys.argv[1]
+    replace_typo_in_files(root_dir)
