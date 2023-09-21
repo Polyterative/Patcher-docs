@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/patcher_promo_280122 (1).png
+cover: ../.gitbook/assets/patcher_promo_280122 (1) (Small).png
 coverY: 0
 ---
 
