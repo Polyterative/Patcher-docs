@@ -24,7 +24,6 @@ Here is the current status of the project:
 - ✅ Create your personal account
 - ✅ Create racks and patches
 - ✅ See your collection, with saved modules and built racks and patches
-- 🚧 See other people’s profile
 - 🚧 Specific manufacturer page (with customizable branding)
 - 💬 marketplace
 
