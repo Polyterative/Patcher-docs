@@ -1,6 +1,6 @@
 # Development status
 
-## CURRENT: LANCHED! Receiving feedback
+## CURRENT: LAUNCHED! Receiving feedback
 
 Here is the current status of the project:
 
@@ -27,7 +27,6 @@ Here is the current status of the project:
 * ✅ Create racks and patches
 * ✅ See your collection, with saved modules and built racks and patches
 * 🚧 See other people’s profile
-* 🚧 See other people’s profile
 * 🚧 Specific manufacturer page (with customizable branding)
 * 💬 marketplace
 
@@ -40,7 +39,7 @@ Here is the current status of the project:
 * ✅ Explore and search for other people‘s ideas
 * ✅ Search in public database
 * 🚧 Clone to edit
-* 🚧 Generate patch idea with a generative algorhythm
+* 🚧 Generate patch idea with a generative algorithm
 * 💬 Detect feedback loops
 * 🚧 Detect power incompatibilities (max10v envelope in max5V input)
 * 🚧 Private patches
