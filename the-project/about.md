@@ -8,10 +8,10 @@ Patcher.xyz is a web-based platform that allows users to save and share eurorack
 
 ## Features
 
-- Intuitive drag-and-drop interface for rack planning
-- Extensive library of modules to choose from
-- Unique patch note annotation and sharing system
-- More to come!
+* Intuitive drag-and-drop interface for rack planning
+* Extensive library of modules to choose from
+* Unique patch note annotation and sharing system
+* More to come!
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ To get started with Patcher.xyz, follow these simple steps:
 
 ## Learn More
 
-Visit our [documentation](../README.md) for more information on how to use Patcher.xyz and get the most out of your modular patching experience.
+Visit our [documentation](./) for more information on how to use Patcher.xyz and get the most out of your modular patching experience.
 
 We are constantly working on improving Patcher.xyz and adding new features. If you have any questions or feedback, please don't hesitate to reach out to our support team.
 

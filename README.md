@@ -1,43 +1,58 @@
-# FAQ
+# Let's Get Started
 
-## General
+## Crafting Your First Patch
 
-### What is patcher.xyz?
+1. Start by creating an account.
+2. Once you're in, navigate to the “modules” section.
+3. Find a module that interests you and open it.
+4. See that “+” button? Click on it to add the module to your collection.
+5. Now, head over to the “collection” section.
+6. Here's the fun part - click on “Create Patch”.
+7. Voila! Your new patch is ready. Go ahead and open it.
 
-![Patcher Promo Image](.gitbook/assets/patcher_promo_4.png)
+## Building Your Module Collection
 
-Patcher.xyz is a platform designed to simplify the process of transcribing and sharing patch notes. It allows users to build patches by clicking the INs and OUTs of modules in the "Patch Builder", visualize the signal flow, and share or save the patches with ease. It also features a rack builder for sorting modules.
+1. If you haven't already, create an account.
+2. Navigate to the “modules” section.
+3. Open a module that you'd like to add to your collection.
+4. Click on the “+” button to add the module to your collection.
 
-## Usage
+## Crafting Another Patch
 
-### What can I do with the patch builder?
+1. Start by adding some modules to your collection.
+2. Navigate to the “collection” section.
+3. Click on “Create Patch” to start crafting a new patch.
+4. Once it's ready, open your new patch.
 
-The patch builder is a versatile tool that allows you to connect CV inputs and CV outputs quickly and easily. For instance, you can create a complex signal flow by connecting multiple modules, visualize it in our unique graph visualizer, and then share the URL or save the list of connections as text. All patches are saved on the website and can be shared with a simple link.
+## Add Connections to a Patch
 
-### Do I need a list of all modules and their information to use the patch builder?
+1. First, create a patch.
+2. Add some modules to your collection.
+3. Check if your modules have tracked INs and OUTs. If they don't, go ahead and add them.
+4. Click on the INs and OUTs to select a connection.
+5. Confirm the connection.
+6. Don't forget to save your patch!
 
-Yes, but don't worry! We already have a substantial database of inputs and outputs for each module, thanks to the contributions of our community. We're always looking for more help to map all modules' CVs.
+### Want to Learn More?
 
-## Contribution
+{% content-ref url="../learn-patcher.xyz/patches.md" %}
+Learn more about [Patches](../learn-patcher.xyz/patches.md)
+{% endcontent-ref %}
 
-### How can I contribute to the project?
+{% content-ref url="../learn-patcher.xyz/racks.md" %}
+Discover more about [Racks](../learn-patcher.xyz/racks.md)
+{% endcontent-ref %}
 
-We're always open to feedback and suggestions for improvement. The best way to contribute is to join our discord channel, which is our main hub for communication. You can also help us by mapping the CVs of modules.
+{% content-ref url="../learn-patcher.xyz/modules.md" %}
+Find out more about [Modules](../learn-patcher.xyz/modules.md)
+{% endcontent-ref %}
 
-### How can I report issues?
+### Handy Links for You
 
-If you encounter any issues while using patcher.xyz, please report them on our discord server. We appreciate your help in making our platform better.
+✅ Ready to dive in? [Try the tool](https://patcher.xyz/)
 
-### How can I request features?
+🧠 Need some help? Check out our [Support docs](https://docs.patcher.xyz/)
 
-Feature requests are welcome! You can submit your ideas and discuss them in our discord channel.
+💁‍♂️ Got questions? Here's our [FAQ](https://docs.patcher.xyz/)
 
-## Where can I try patcher.xyz?
-
-You can try it out here: [https://patcher.xyz/](https://patcher.xyz/home)
-
-## Where can I join the discord channel?
-
-You can join our discord channel here: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
-
-[Contact us](https://github.com/Polyterative/Patcher-docs/blob/main/the-project/contact-us-help-community.md)
+🔺 Want to join the conversation? Come to our [Community](https://discord.gg/pYz3gagUDA)

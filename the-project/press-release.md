@@ -18,10 +18,10 @@ Patcher.xyz was built to provide a fast and enjoyable experience while bypassing
 
 Useful links:
 
-✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz)
+✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz/)
 
-🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz)
+🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz/)
 
-💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz)&#x20;
+💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz/)&#x20;
 
 🔺 Community: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
