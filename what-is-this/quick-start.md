@@ -3,25 +3,25 @@
 ## Crafting Your First Patch
 
 1. Start by creating an account.
-2. Once you're in, navigate to the “modules” section.
+2. Once you're in, navigate to the [modules](../learn-patcher.xyz/modules.md) section.
 3. Find a module that interests you and open it.
 4. See that “+” button? Click on it to add the module to your collection.
-5. Now, head over to the “collection” section.
-6. Here's the fun part - click on “Create Patch”.
+5. Now, head over to the [collection](../learn-patcher.xyz/collection.md) section.
+6. Here's the fun part - click on [Create Patch](../learn-patcher.xyz/patches.md#creating-a-patch).
 7. Voila! Your new patch is ready. Go ahead and open it.
 
 ## Building Your Module Collection
 
 1. If you haven't already, create an account.
-2. Navigate to the “modules” section.
+2. Navigate to the [modules](../learn-patcher.xyz/modules.md) section.
 3. Open a module that you'd like to add to your collection.
 4. Click on the “+” button to add the module to your collection.
 
 ## Crafting Another Patch
 
 1. Start by adding some modules to your collection.
-2. Navigate to the “collection” section.
-3. Click on “Create Patch” to start crafting a new patch.
+2. Navigate to the [collection](../learn-patcher.xyz/collection.md) section.
+3. Click on [Create Patch](../learn-patcher.xyz/patches.md#creating-a-patch) to start crafting a new patch.
 4. Once it's ready, open your new patch.
 
 ## Add Connections to a Patch
