@@ -13,7 +13,7 @@ The process of creating a patch is straightforward and can be accomplished in th
 
 1. **Account Creation and Login:** The first step towards creating patches is to have an account. If you don't already have one, you can easily create it by clicking on the 'Sign Up' button located on the homepage. After creating an account, sign in to gain access to your dashboard.
 
-2. **Navigate to Collection:** After signing in, proceed to the 'Collection' section. This option can be found at the top right corner of your dashboard.
+2. **Navigate to Collection:** After signing in, click on the "Collection" option at the top right corner of your dashboard.
 
 3. **Patch Creation:** Within the 'Collection' section, you will find an option to create a new patch. Click on this option to commence the creation of your patch.
 
