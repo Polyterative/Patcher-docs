@@ -10,7 +10,7 @@
 - [Patches](learn-patcher.xyz/patches.md)
 - [Modules](learn-patcher.xyz/modules.md)
 - [Racks](learn-patcher.xyz/racks.md)
-- [Collection](learn-patcher.xyz/Collection.md)
+- [Collection](learn-patcher.xyz/collection.md)
 
 ## THE PROJECT
 
