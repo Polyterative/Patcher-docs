@@ -15,7 +15,3 @@ The "Collection" section in Patcher allows users to manage their modules and cre
 6. **Adding Connections:** To add connections to a patch, follow the steps outlined in the "Adding Connections to a Patch" section in the "Patches" documentation.
 
 7. **Removing Connections:** If you need to remove connections from a patch, refer to the "Removing Connections from a Patch" section in the "Patches" documentation for detailed instructions.
-
-That's it! The "Collection" section provides a convenient way to manage your modules and create patches in Patcher.
-
-Commit message: "feat: Add 'Collection' section to learn-patcher.xyz/collection.md"
