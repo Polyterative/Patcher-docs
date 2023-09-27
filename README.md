@@ -35,17 +35,11 @@
 
 ### Want to Learn More?
 
-{% content-ref url="../learn-patcher.xyz/patches.md" %}
-Learn more about [Patches](../learn-patcher.xyz/patches.md)
-{% endcontent-ref %}
+[Learn more about Patches](../learn-patcher.xyz/patches.md)
 
-{% content-ref url="../learn-patcher.xyz/racks.md" %}
-Discover more about [Racks](../learn-patcher.xyz/racks.md)
-{% endcontent-ref %}
+[Discover more about Racks](../learn-patcher.xyz/racks.md)
 
-{% content-ref url="../learn-patcher.xyz/modules.md" %}
-Find out more about [Modules](../learn-patcher.xyz/modules.md)
-{% endcontent-ref %}
+[Find out more about Modules](../learn-patcher.xyz/modules.md)
 
 ### Handy Links for You
 
