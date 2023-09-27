@@ -1,18 +1,17 @@
 # About
 
-Welcome to Patcher.xyz, a powerful tool for crafting modular patches.
+Welcome to Patcher.xyz, a powerful tool for modular artists.
 
 ## What is Patcher.xyz?
 
-Patcher.xyz is a web-based platform that allows users to create and explore modular patches. With Patcher.xyz, you can easily craft your own patches by selecting and connecting modules in a virtual rack. Whether you're a beginner or an experienced musician, Patcher.xyz provides a user-friendly interface for creating unique and complex sound designs.
+Patcher.xyz is a web-based platform that allows users to save and share eurorack patches. With Patcher.xyz, you can easily craft your own patches by selecting and connecting modules in a virtual rack. Whether you're a beginner or an experienced musician, Patcher.xyz provides a modern user-friendly interface for your modular needs.
 
 ## Features
 
-- Intuitive drag-and-drop interface
+- Intuitive drag-and-drop interface for rack planning
 - Extensive library of modules to choose from
-- Flexible routing options
-- Real-time audio processing
-- Patch sharing and collaboration
+- Unique patch note annotation and sharing system
+- More to come!
 
 ## Getting Started
 
