@@ -11,6 +11,7 @@
 - [Modules](learn-patcher.xyz/modules.md)
 - [Racks](learn-patcher.xyz/racks.md)
 - [Collection](learn-patcher.xyz/collection.md)
+- [About](learn-patcher.xyz/about.md)
 
 ## THE PROJECT
 
