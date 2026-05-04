@@ -1,11 +1,11 @@
 # Table of contents
 
-## WHAT IS THIS
+## GETTING STARTED
 
 * [Overview](README.md)
 * [Quick start](what-is-this/quick-start.md)
 
-## LEARN PATCHER.XYZ
+## CORE WORKFLOWS
 
 * [Modules](learn-patcher.xyz/modules.md)
 * [Collection](learn-patcher.xyz/collection.md)
@@ -16,7 +16,7 @@
 * [Public Profiles](learn-patcher.xyz/public-profiles.md)
 * [Account and Privacy](learn-patcher.xyz/account-and-privacy.md)
 
-## THE PROJECT
+## PROJECT
 
 * [FAQ](the-project/readme.md)
 * [About](the-project/about.md)
@@ -26,6 +26,6 @@
 * [Press / media boilerplate](the-project/press-release.md)
 * [Official images](the-project/high-res-official-images.md)
 
-## LEARN
+## REFERENCE
 
 * [Modular Glossary](learn/modular-glossary.md)

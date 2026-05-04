@@ -36,8 +36,8 @@ If you are new to Patcher, begin with these pages:
 ## Need a guided tour?
 
 - [Quick start](what-is-this/quick-start.md)
-- [User area](learn-patcher.xyz/user-area.md)
-- [Public profiles](learn-patcher.xyz/public-profiles.md)
+- [User Area](learn-patcher.xyz/user-area.md)
+- [Public Profiles](learn-patcher.xyz/public-profiles.md)
 - [Account and Privacy](learn-patcher.xyz/account-and-privacy.md)
 - [FAQ](the-project/readme.md)
 
