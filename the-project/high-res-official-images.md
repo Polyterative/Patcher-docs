@@ -17,11 +17,11 @@ These files are available in the repository for press, linking, and project refe
 
 ## Files
 
-{% file src=".gitbook/assets/patcher_promo_280122 (3).png" %}
+{% file src=".gitbook/assets/patcher-promo-3.png" %}
 
-{% file src=".gitbook/assets/patcher_promo_280122 (2).png" %}
+{% file src=".gitbook/assets/patcher-promo-2.png" %}
 
-{% file src=".gitbook/assets/patcher_promo_280122 (1).png" %}
+{% file src=".gitbook/assets/patcher-promo-1.png" %}
 
 ## Current product screenshots
 
