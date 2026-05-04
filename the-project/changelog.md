@@ -7,8 +7,6 @@ For the authoritative history of app releases and code changes, use the main rep
 
 ## High-level recent direction
 
-Recent direction includes:
-
 Notable product direction includes:
 
 - instance-aware patching for repeated modules
@@ -17,4 +15,4 @@ Notable product direction includes:
 - multi-panel module support and improved panel handling
 - public profiles, contributor stats, and stronger discovery surfaces
 
-For full commit-by-commit release history, open the GitHub changelog directly.
+For commit-by-commit release history, open the GitHub changelog directly.

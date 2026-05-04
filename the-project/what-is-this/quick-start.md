@@ -1,6 +1,6 @@
 # Quick Start
 
-Start with the main guide here:
+Start with the main guide:
 
 - [Quick start](../../what-is-this/quick-start.md)
 
@@ -12,7 +12,7 @@ If you are starting from scratch, the fastest sequence is:
 4. Build a rack.
 5. Capture a patch.
 
-From there:
+Then continue with:
 
 - [Modules](../../learn-patcher.xyz/modules.md)
 - [Collection](../../learn-patcher.xyz/collection.md)

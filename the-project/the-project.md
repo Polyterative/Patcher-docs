@@ -1,10 +1,10 @@
 # FAQ
 
-Start with the FAQ here:
+Start with the FAQ:
 
 - [FAQ](readme.md)
 
-If you arrived here from an older app or bookmark, this path is kept so that the FAQ still resolves cleanly.
+If you arrived here from an older app or bookmark, this path is kept so the FAQ still resolves cleanly.
 
 Related:
 

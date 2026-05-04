@@ -4,7 +4,7 @@ Patcher is built to help you find things quickly across both the public library 
 
 ## Public discovery
 
-On the public side, discovery usually starts with **Modules**, then expands into related public racks and patches.
+Discovery usually starts with **Modules**, then expands into related public racks and patches.
 
 This is useful when you want to:
 

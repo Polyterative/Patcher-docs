@@ -6,7 +6,7 @@ If you came here from the app and want the fastest onboarding path, start with:
 
 - [Quick start](quick-start.md)
 
-If you want the broader overview:
+If you want the broader tour:
 
 - [Docs home](../README.md)
 - [Core Workflows](../learn-patcher.xyz/readme.md)

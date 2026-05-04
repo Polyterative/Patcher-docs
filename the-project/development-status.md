@@ -1,6 +1,6 @@
 # Development status
 
-This page is a product snapshot, not a roadmap.
+This page is a snapshot of what Patcher already does, not a roadmap.
 
 ## Shipping today
 
@@ -35,7 +35,7 @@ This page is a product snapshot, not a roadmap.
 - instance-aware handling for repeated modules
 - auto-save for patch state and edits
 
-### Platform shape
+### Project shape
 
 - open-source codebase
 - public data browsing without an account
@@ -43,7 +43,7 @@ This page is a product snapshot, not a roadmap.
 
 ## Still actively improving
 
-Patcher is under active development. Areas that continue to evolve include:
+Patcher is still evolving. Areas that continue to move include:
 
 - module data coverage and detail quality
 - docs and onboarding
