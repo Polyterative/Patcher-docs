@@ -27,5 +27,6 @@ open-source and built around practical day-to-day use rather than passive collec
 
 - [Product](https://patcher.xyz/)
 - [Documentation](https://docs.patcher.xyz/)
+- [Official images](high-res-official-images.md)
 - [GitHub](https://github.com/Polyterative/Patcher)
 - [Discord](https://discord.gg/N6Z32xJR)
