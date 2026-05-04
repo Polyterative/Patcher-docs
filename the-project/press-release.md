@@ -12,8 +12,8 @@ splitting module research, rack planning, patch notes, and public sharing across
 brings those workflows together in one place.
 
 Users can browse the public module database without an account, then create a personal workspace when they want to save
-their own collection, build racks, capture patches, and publish selected work through a public profile. The project is
-open-source and built for day-to-day use rather than passive collection storage.
+their collection, build racks, capture patches, and publish selected work through a public profile. The project is
+open-source and built for regular use rather than passive collection storage.
 
 ## Key product points
 

@@ -32,7 +32,7 @@ For bug reports and concrete technical proposals:
 
 ## Before you reach out
 
-These pages often answer the practical first questions:
+These pages often answer the first practical questions:
 
 - [Quick start](../what-is-this/quick-start.md)
 - [FAQ](readme.md)

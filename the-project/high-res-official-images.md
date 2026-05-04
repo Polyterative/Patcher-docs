@@ -25,7 +25,7 @@ These files are available in the repository for press, linking, and project refe
 
 ## Current product screenshots
 
-These captures show the live product shape more directly than the older promo images.
+These captures show the live product more directly than the older promo images.
 
 {% file src=".gitbook/assets/patcher-home-ipad-pro.png" %}
 
@@ -41,7 +41,7 @@ These captures show the live product shape more directly than the older promo im
 
 {% file src=".gitbook/assets/patcher-public-profile-ipad-pro.png" %}
 
-If you need context on how to describe the product alongside these images, use:
+If you need product context to go with these images, use:
 
 - [About](about.md)
 - [Press / media boilerplate](press-release.md)

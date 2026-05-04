@@ -1,7 +1,6 @@
 # Search and Discovery
 
-Patcher is not just a place to store your own data. It is also designed to help you find things quickly across the
-public library and your private workspace.
+Patcher is built to help you find things quickly across both the public library and your own workspace.
 
 ## Public discovery
 
@@ -17,7 +16,7 @@ This is useful when you want to:
 
 Inside **User Area**, search works across modules, racks, and patches together.
 
-That matters once your workspace starts containing enough material that scrolling is no longer efficient.
+That matters once your workspace contains enough material that scrolling is no longer efficient.
 
 ## Discovery surfaces that matter
 

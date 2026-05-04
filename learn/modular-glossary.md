@@ -10,7 +10,7 @@ manual shortcuts.
 ## Digital twin
 
 A practical digital representation of your real modular setup. In Patcher, that means your saved modules, racks,
-patches, and related context staying connected instead of living in separate tools.
+patches, and related context staying connected instead of being spread across separate tools.
 
 ## Module
 

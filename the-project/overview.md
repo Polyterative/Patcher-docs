@@ -22,7 +22,7 @@ Use these pages when you want to:
 - check release direction
 - pull media assets or boilerplate
 
-If you want product usage guidance instead, go back to:
+If you want product guidance instead, go back to:
 
 - [Quick start](../what-is-this/quick-start.md)
 - [Core Workflows](../learn-patcher.xyz/readme.md)
