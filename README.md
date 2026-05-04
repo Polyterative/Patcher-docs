@@ -2,8 +2,8 @@
 
 Patcher is the digital twin workspace for Eurorack musicians.
 
-Use it to browse modules, build your collection, plan racks, capture patches, save notes, and share work when you want
-to.
+Use it to browse modules, build a collection, plan racks, capture patches, keep notes close, and share work on your
+terms.
 
 ![Patcher home on iPad Pro](.gitbook/assets/patcher-home-ipad-pro.png)
 
@@ -20,10 +20,10 @@ If you are new to Patcher, begin with these pages:
 
 ## What Patcher is good at
 
-- **Building a module library** you can actually use while planning.
+- **Building a module library** that stays useful once planning starts.
 - **Turning your collection into working racks** before you move hardware around.
-- **Capturing patches while they are still fresh** with modules, routing, and notes together.
-- **Keeping public browsing open** so you can explore modules, racks, and patches without a paywall.
+- **Capturing patches while they are still fresh** with modules, routing, and notes in one place.
+- **Keeping public browsing open** so modules, racks, and patches stay easy to explore.
 - **Letting you share selectively** through public racks, public patches, and public profiles.
 
 ## Core workflow

@@ -4,8 +4,8 @@
 
 Patcher is a digital twin workspace for Eurorack musicians.
 
-It combines a public module database with private workspace tools for collection tracking, rack planning, patch capture,
-manual access, and selective public sharing.
+It combines a public module database with workspace tools for collection tracking, rack planning, patch capture, manual
+access, and selective public sharing.
 
 ## Do I need an account to use it?
 
@@ -29,12 +29,11 @@ Patcher is useful across the whole modular workflow:
 
 Because the collection powers the rest of the workspace.
 
-Once your modules are saved there, they become the practical source for rack planning, patch capture, and manual
-shortcuts.
+Once your modules are saved there, they become the source for rack planning, patch capture, and manual shortcuts.
 
 ## Can I use it privately?
 
-Yes. A good way to start is to use Patcher as a private working space first.
+Yes. A good way to start is to use Patcher as a private workspace first.
 
 Public sharing is optional.
 

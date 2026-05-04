@@ -7,7 +7,7 @@ Patcher exists to make modular gear easier to manage in real life, not just easi
 Most modular workflows break apart too quickly.
 
 One tool helps you browse modules. Another helps you mock up racks. Patch notes live in photos, notebooks, or scattered
-documents. Manuals disappear into browser history. Nothing really stays connected.
+documents. Manuals disappear into browser history. The context rarely stays connected.
 
 Patcher is built to pull those pieces back together.
 
@@ -24,7 +24,7 @@ Patcher is a modern workspace for:
 
 ## What makes it different
 
-The goal is not just storage. The goal is recall and continuity.
+The goal is not just storage. It is recall and continuity.
 
 Patcher should help you move between:
 
@@ -34,7 +34,7 @@ Patcher should help you move between:
 - documentation
 - sharing
 
-without constantly rebuilding the same context from scratch.
+without rebuilding the same context from scratch every time.
 
 ## Open by default on the public side
 
