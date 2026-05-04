@@ -7,6 +7,7 @@
 
 ## CORE WORKFLOWS
 
+* [Overview](learn-patcher.xyz/readme.md)
 * [Modules](learn-patcher.xyz/modules.md)
 * [Collection](learn-patcher.xyz/collection.md)
 * [User Area](learn-patcher.xyz/user-area.md)
