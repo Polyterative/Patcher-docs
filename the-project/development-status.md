@@ -1,6 +1,6 @@
 # Development status
 
-This page is a current product snapshot, not a promise list.
+This page is a product snapshot, not a roadmap.
 
 ## Shipping today
 

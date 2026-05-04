@@ -15,7 +15,7 @@ You only need an account when you want to save your own collection, racks, patch
 
 ## Is Patcher only for patches?
 
-No. That is one of the biggest differences between the old product framing and the current one.
+No.
 
 Patcher is useful across the whole modular workflow:
 
@@ -52,7 +52,7 @@ It can show the racks and patches you have chosen to expose, along with profile 
 
 ## Does Patcher support repeated modules in patches?
 
-Yes. Modern Patcher is instance-aware, which matters when the same hardware appears more than once in a patch.
+Yes. Patcher is instance-aware, which matters when the same hardware appears more than once in a patch.
 
 That keeps documentation clearer and more reliable.
 

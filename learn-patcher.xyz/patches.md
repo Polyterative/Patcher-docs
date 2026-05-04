@@ -62,8 +62,8 @@ If a module is missing useful I/O data, improve the module data first when possi
 
 Patches are meant to evolve while you work.
 
-Current Patcher behavior is built around faster iteration, including auto-save for patch state and edits, so the app is
-much better suited to active use than the old docs suggest.
+Patcher is built around faster iteration, including auto-save for patch state and edits, so it works well during active
+use instead of only after the session is over.
 
 ## Naming and notes
 

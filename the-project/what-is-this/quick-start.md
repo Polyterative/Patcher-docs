@@ -1,8 +1,6 @@
 # Quick Start
 
-This page is kept as a legacy path.
-
-Use the current guide here:
+Start with the main guide here:
 
 - [Quick start](../../what-is-this/quick-start.md)
 

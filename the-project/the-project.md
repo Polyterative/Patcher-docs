@@ -1,8 +1,6 @@
 # FAQ
 
-This page is kept as a legacy path for app links.
-
-Use the current FAQ here:
+Start with the FAQ here:
 
 - [FAQ](readme.md)
 
