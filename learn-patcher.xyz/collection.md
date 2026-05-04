@@ -2,11 +2,11 @@
 
 Your collection is the foundation of the whole workspace.
 
-If Modules is the catalogue, Collection is your own working list.
+If Modules is the catalogue, Collection is the working inventory behind everything else.
 
 ## What the collection does
 
-The collection tracks the modules you actually want available in your workspace.
+The collection tracks the modules you want available in your workspace.
 
 That matters because Patcher uses the collection as the source for:
 
@@ -27,7 +27,7 @@ You do not need to add everything in one sitting. Start with the hardware you re
 
 ## Why this step is worth doing well
 
-A strong collection makes everything downstream faster:
+A strong collection makes everything downstream faster and more believable:
 
 - racks become realistic
 - patches are easier to assemble
@@ -38,7 +38,7 @@ If your collection is incomplete, the rest of the workspace becomes harder to tr
 
 ## Collection is not just storage
 
-Think of it as working data, not a passive list.
+Think of it as working data, not passive storage.
 
 A good collection helps you answer questions like:
 

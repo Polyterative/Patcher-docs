@@ -1,6 +1,6 @@
 # Racks
 
-Racks are where planning becomes useful.
+Racks are where planning becomes physical.
 
 Use them to model a real case, test an idea before rearranging hardware, or compare multiple layouts without losing the
 earlier version.
@@ -31,7 +31,7 @@ The usual flow is:
 3. Add modules from the collection-driven workflow.
 4. Arrange them until the layout feels right.
 
-This keeps the rack connected to the hardware you actually own instead of turning into a disconnected mockup.
+This keeps the rack tied to the hardware you actually own instead of drifting into a disconnected mockup.
 
 ## Edit and reorganize
 
@@ -58,7 +58,7 @@ That is useful for:
 
 ## Analysis and fit
 
-Rack detail is no longer just a visual builder.
+Rack detail is more than a visual builder.
 
 Use it to review practical constraints such as:
 
@@ -67,7 +67,7 @@ Use it to review practical constraints such as:
 - power analysis
 - balance analysis
 
-These views help you spot problems earlier, before you commit to physical changes.
+These views help you spot problems before they turn into physical changes.
 
 ## Panel variants
 

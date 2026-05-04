@@ -2,7 +2,7 @@
 
 Patches are the memory layer of Patcher.
 
-Use them when you want more than a loose note or a photo on your phone. A good patch entry lets you reopen a session
+Use them when you need more than a loose note or a photo on your phone. A good patch entry lets you reopen a session
 later and still understand what mattered.
 
 ![Patches browser on iPad Pro](../.gitbook/assets/patcher-patches-ipad-pro.png)
@@ -56,14 +56,14 @@ This is where Patcher becomes especially useful for recall:
 - repeated modules remain distinct
 - the patch stays readable later instead of turning into guesswork
 
-If a module is missing useful I/O data, improve the module data first when possible. That pays off everywhere else too.
+If a module is missing useful I/O data, improve the module data first when possible. That pays off elsewhere too.
 
 ## Edit without fear
 
 Patches are meant to evolve while you work.
 
-Patcher is built around faster iteration, including auto-save for patch state and edits, so it works well during active
-use instead of only after the session is over.
+Patcher is built around fast iteration, including auto-save for patch state and edits, so it stays useful during an
+active session instead of only after it is over.
 
 ## Naming and notes
 
