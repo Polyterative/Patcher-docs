@@ -12,10 +12,11 @@ plan racks, capture patches, save notes, and share selected work publicly when y
 If you are new to Patcher, begin with these pages:
 
 1. [Quick start](what-is-this/quick-start.md)
-2. [Modules](learn-patcher.xyz/modules.md)
-3. [Collection](learn-patcher.xyz/collection.md)
-4. [Racks](learn-patcher.xyz/racks.md)
-5. [Patches](learn-patcher.xyz/patches.md)
+2. [Core Workflows](learn-patcher.xyz/readme.md)
+3. [Modules](learn-patcher.xyz/modules.md)
+4. [Collection](learn-patcher.xyz/collection.md)
+5. [Racks](learn-patcher.xyz/racks.md)
+6. [Patches](learn-patcher.xyz/patches.md)
 
 ## What Patcher is good at
 
@@ -36,9 +37,11 @@ If you are new to Patcher, begin with these pages:
 ## Need a guided tour?
 
 - [Quick start](what-is-this/quick-start.md)
+- [Core Workflows](learn-patcher.xyz/readme.md)
 - [User Area](learn-patcher.xyz/user-area.md)
 - [Public Profiles](learn-patcher.xyz/public-profiles.md)
 - [Account and Privacy](learn-patcher.xyz/account-and-privacy.md)
+- [Project Overview](the-project/overview.md)
 - [FAQ](the-project/readme.md)
 
 ## Useful links

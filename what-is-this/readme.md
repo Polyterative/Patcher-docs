@@ -9,6 +9,8 @@ If you came here from the app and want the fastest onboarding path, start with:
 If you want the broader overview:
 
 - [Docs home](../README.md)
+- [Core Workflows](../learn-patcher.xyz/readme.md)
+- [Project Overview](../the-project/overview.md)
 - [Modules](../learn-patcher.xyz/modules.md)
 - [Collection](../learn-patcher.xyz/collection.md)
 - [Racks](../learn-patcher.xyz/racks.md)
