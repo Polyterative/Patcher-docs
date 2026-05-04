@@ -4,6 +4,8 @@ User Area is your personal operating space inside Patcher.
 
 It is where your saved modules, racks, patches, manuals, and profile controls come together.
 
+![User Area on iPad Pro](../.gitbook/assets/patcher-user-area-ipad-pro.png)
+
 ## What is in User Area
 
 The layout is built around a few practical sections:

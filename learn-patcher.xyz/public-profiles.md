@@ -4,6 +4,8 @@ Public profiles are the shareable face of your workspace.
 
 They give you a clean public page tied to your username without forcing everything you do in Patcher to become public.
 
+![Public profile on iPad Pro](../.gitbook/assets/patcher-public-profile-ipad-pro.png)
+
 ## What a public profile can show
 
 When enabled, a profile can show:

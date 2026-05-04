@@ -2,6 +2,8 @@
 
 This page covers the basic account choices that shape how public or private your Patcher use feels.
 
+![Account page on iPad Pro](../.gitbook/assets/patcher-account-ipad-pro.png)
+
 ## Browsing without signing in
 
 You can explore the public side of Patcher without an account.
