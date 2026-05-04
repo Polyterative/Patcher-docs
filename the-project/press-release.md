@@ -1,27 +1,31 @@
-# Press release
+# Press / media boilerplate
 
-![](<../.gitbook/assets/patcher\_promo\_280122 (1) (Small).png>)
+## Short description
 
-![](<../.gitbook/assets/patcher\_promo\_280122 (2) (Small).png>)
+Patcher is a digital twin workspace for Eurorack musicians. It combines a public module database with tools for module
+collection tracking, rack planning, patch documentation, manual access, and selective public sharing.
 
-![](<../.gitbook/assets/patcher\_promo\_280122 (3) (Small).png>)
+## Boilerplate
 
-After a decade of stagnation in this space we are excited to present patcher.xyz: the modern way to manage everything modular.
+Patcher helps modular users keep their real systems organized in a way that stays useful later. Instead of splitting
+module research, rack planning, patch notes, and public sharing across several disconnected tools, Patcher brings those
+workflows together in one place.
 
-It’s a tool for professionals, enthusiasts, and casual wigglers.
+Users can browse the public module database without an account, then create a personal workspace when they want to save
+their own collection, build racks, capture patches, and publish selected work through a public profile. The project is
+open-source and built around practical day-to-day use rather than passive collection storage.
 
-Novadays artists must develop their own means of taking notes, often on paper, since there is no common format for sharing ideas. Although there is nothing wrong with that, we believe we have found a better way.
+## Key product points
 
-We wanted our patch ideas to be searchable, editable and easily-shareable. We needed an easier way to plan our racks, without creating a mess. We needed to be able to find awesome modules fitting our style and feel, without being lost in the ocean of different options. We made it a reality.
+- public module browsing without a paywall
+- collection-driven racks and patches
+- patch recall workflow, not just loose note-taking
+- rack analysis and panel-aware planning
+- public profiles for selected racks and patches
 
-Patcher.xyz was built to provide a fast and enjoyable experience while bypassing the limitations of current offerings. Our vision is to build a platform to assist you in any part of your wiggling experience: from research, to planning, to buying or trading gear, to sharing your new ideas and music.
+## Links
 
-Useful links:
-
-✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz/)
-
-🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz/)
-
-💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz/)&#x20;
-
-🔺 Community: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+- [Product](https://patcher.xyz/)
+- [Documentation](https://docs.patcher.xyz/)
+- [GitHub](https://github.com/Polyterative/Patcher)
+- [Discord](https://discord.gg/N6Z32xJR)

@@ -1,31 +1,68 @@
 # About
 
-Welcome to Patcher.xyz, a powerful tool for modular artists.
+Patcher exists to make modular gear easier to manage in real life, not just easier to admire online.
 
-## What is Patcher.xyz?
+## The idea
 
-Patcher.xyz is a web-based platform that allows users to save and share eurorack patches. With Patcher.xyz, you can easily craft your own patches by selecting and connecting modules in a virtual rack. Whether you're a beginner or an experienced musician, Patcher.xyz provides a modern user-friendly interface for your modular needs.
+Most modular workflows break apart too quickly.
 
-## Features
+One tool helps you browse modules. Another helps you mock up racks. Patch notes live in photos, notebooks, or scattered
+documents. Manuals disappear into browser history. Nothing really stays connected.
 
-* Intuitive drag-and-drop interface for rack planning
-* Extensive library of modules to choose from
-* Unique patch note annotation and sharing system
-* More to come!
+Patcher is built to pull those pieces back together.
 
-## Getting Started
+## What Patcher is now
 
-To get started with Patcher.xyz, follow these simple steps:
+Patcher is a modern workspace for:
 
-1. Create an account on Patcher.xyz.
-2. Explore the modules section and add modules to your collection.
-3. Use the collection section to create patches by connecting modules.
-4. Save and share your patches with the Patcher.xyz community.
+- browsing a public Eurorack module database
+- building a personal module collection
+- planning and comparing racks
+- capturing patch routing and notes
+- keeping manuals closer to the hardware you actually use
+- sharing selected racks and patches through a public profile
 
-## Learn More
+## What makes it different
 
-Visit our [documentation](./) for more information on how to use Patcher.xyz and get the most out of your modular patching experience.
+The goal is not just storage. The goal is recall and continuity.
 
-We are constantly working on improving Patcher.xyz and adding new features. If you have any questions or feedback, please don't hesitate to reach out to our support team.
+Patcher should help you move between:
 
-Happy patching!
+- discovery
+- ownership
+- planning
+- documentation
+- sharing
+
+without constantly re-entering the same context.
+
+## Open by default on the public side
+
+The public module database is meant to stay accessible.
+
+Browsing public information should not require an account, and the project remains open-source. That public surface is a
+big part of the value: it lets people research, compare, and learn before they decide to build their own workspace.
+
+## Who it is for
+
+Patcher is for modular users who want a cleaner system around their instrument:
+
+- people planning a first case
+- people documenting an established rig
+- people maintaining several rack variants
+- people who want more reliable patch recall
+- people who like sharing selected work without turning everything public
+
+## What Patcher is not trying to be
+
+Patcher is not trying to replace the instrument itself, replace manuals, or flatten modular practice into a rigid
+format.
+
+It is meant to reduce friction around the parts that are easy to lose: hardware context, patch memory, and organization.
+
+## Where to go next
+
+- [Quick start](../what-is-this/quick-start.md)
+- [Modules](../learn-patcher.xyz/modules.md)
+- [User Area](../learn-patcher.xyz/user-area.md)
+- [FAQ](readme.md)

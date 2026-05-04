@@ -1,80 +1,60 @@
 # Development status
 
-## CURRENT: LAUNCHED! Receiving feedback
+This page is a current product snapshot, not a promise list.
 
-Here is the current status of the project:
+## Shipping today
 
-✅ - available now
+### Public browsing
 
-🚧 - planned
+- public module browsing
+- public rack browsing
+- public patch browsing
+- public profile pages
 
-💬 - community feedback wanted
+### Personal workspace
 
-🔵General
+- module collection tracking
+- rack creation and editing
+- patch creation and editing
+- global search across the user area
+- manuals gathered from your saved modules
+- contributor stats and workspace stats
 
-- ✅ No ads/premium options
-- ✅ The fastest navigation experience possible
-- ✅ State of the art UX and UI design
-- ✅ Mobile support
-- ✅ No personal data collection (anonymized usage and software stability only)
-- 🚧 Specific manufacturer page (with customizable branding)
+### Rack workflow
 
-🔵User Profile
+- visual layout planning
+- duplicate / delete / blank-panel actions
+- multi-panel support where available
+- power analysis and balance analysis
 
-- ✅ Create your personal account
-- ✅ Create racks and patches
-- ✅ See your collection, with saved modules and built racks and patches
-- 🚧 Specific manufacturer page (with customizable branding)
-- 💬 marketplace
+### Patch workflow
 
-🔵Patches
+- module-based patch capture
+- connection documentation
+- notes and naming for recall
+- instance-aware handling for repeated modules
+- auto-save for patch state and edits
 
-- ✅ Build/plan your patches, with any number of modules, regardless of the rack
-- ✅ Interactive click-to-patch builder with notes
-- ✅ Visualize the signal flow, with our unique graph visualizer
-- ✅ Share your patch with a link
-- ✅ Explore and search for other people‘s ideas
-- ✅ Search in public database
-- 🚧 Clone to edit
-- 🚧 Generate patch idea with a generative algorithm
-- 💬 Detect feedback loops
-- 🚧 Detect power incompatibilities (max10v envelope in max5V input)
-- 🚧 Private patches
+### Platform shape
 
-🔵 Racks
+- open-source codebase
+- public data browsing without an account
+- mobile-friendly product direction
 
-- ✅ Plan your rack, with a visual builder
-- ✅ Use both 1U and 3U modules, both **Intellijel** and **PulpLogic**
-- ✅ Drag and drop to organize modules in a rack, with auto-ordering
-- ✅ Duplicate/Delete modules in rack
-- ✅ See stats of your rack such as number of modules used
-- ✅ Lock/unlock rack changes
-- ✅ Share your rack with a link
-- ✅ Explore and search for other people‘s ideas
-- ✅ Search in public database
-- 🚧 Clone to edit
-- 🚧 Rack power usage stats
-- 🚧 Private racks
+## Still actively improving
 
-🔵 Modules
+Patcher is under active development. Areas that continue to evolve include:
 
-- ✅ Find almost 4000 most popular modules
-- ✅ Search feature with filter by manufacturer,size,name
-- ✅ Save module to collection
-- ✅ Track modules INs and OUTs with Voltages
-- ✅ See patches/racks with this module
-- ✅ See module manual with a click
-- ✅ Search on google with a click
-- 🚧 Search: filter by style,looks,nature
-- 🚧 Specific manufacturer mode (with customizable branding)
-- 💬 Track power stats
-- 💬 Track modules switches and knobs positions
-- 💬 Track prices
-- 💬 See availability in stores
-- 💬 Stores integrations
+- module data coverage and detail quality
+- docs and onboarding
+- discovery and browsing surfaces
+- contributor tooling
+- overall polish across core workflows
 
-Useful links:
+## Best way to track changes
 
-✅ Try the tool: [https://patcher.xyz/](https://patcher.xyz)
+For detailed release history, use:
 
-🧠 Support docs:[https://docs.patcher.xyz/](https://docs.patcher.xyz) 💁‍♂️ FAQ:[https://docs.patcher.xyz/](https://docs.patcher.xyz) 🔺 Community:[https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+- [Changelog](changelog.md)
+- [Main GitHub repository](https://github.com/Polyterative/Patcher)
+- [Discord community](https://discord.gg/N6Z32xJR)

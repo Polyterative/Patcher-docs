@@ -1,21 +1,92 @@
 # Quick Start
 
-Welcome to the Quick Start guide for Patcher. This guide will help you get started with using Patcher and provide you with the necessary information to navigate through the documentation.
+This is the fastest way to get real value out of Patcher.
 
-## Getting Started
+## The short version
 
-To begin, make sure you have a basic understanding of the Patcher concepts. If you are new to Patcher, we recommend starting with the [Modules](../learn-patcher.xyz/modules.md) section to learn about the different modules available.
+1. Browse modules without signing in.
+2. Create an account when you want to save your own data.
+3. Add the modules you own to your collection.
+4. Build a rack to check fit and layout.
+5. Create a patch to save routing and notes.
+6. Make selected work public only if you want to share it.
 
-## Collection
+## First useful session
 
-The **Collection** section in Patcher allows you to manage your modules and create patches. If you are not familiar with the Collection section, we suggest reading the [Collection](../learn-patcher.xyz/collection.md) documentation.
+### 1. Browse the module database
 
-## Creating a Patch
+Go to **Modules** and search for the hardware you already own, want to buy, or want to compare.
 
-To create a patch, follow the steps outlined in the [Create Patch](../learn-patcher.xyz/patches.md#creating-a-patch) section. This section provides a step-by-step guide on how to create a patch in Patcher.
+Open module detail pages to check:
 
-## INs and OUTs
+- size and format
+- power information
+- panel images
+- related racks and patches
+- manual links
 
-When adding connections to a patch, it is important to understand the concept of INs and OUTs. For more information on INs and OUTs, refer to the [Adding Connections to a Patch](../learn-patcher.xyz/patches.md#adding-connections) section.
+Read more: [Modules](../learn-patcher.xyz/modules.md)
 
-That's it! You now have a basic understanding of Patcher and how to get started. If you have any further questions, feel free to refer to the rest of the documentation or reach out to our support team.
+### 2. Create an account
+
+You can explore public data without an account, but you need one to build your own workspace.
+
+After signing up, your personal workspace becomes available through **User Area**.
+
+### 3. Add your real modules to your collection
+
+Your collection is the source list for the rest of the app.
+
+Once modules are in your collection, they become available while:
+
+- planning racks
+- building patches
+- gathering manuals in one place
+
+Read more: [Collection](../learn-patcher.xyz/collection.md)
+
+### 4. Build your first rack
+
+Create a rack when you want to test fit, compare layouts, or document an existing case.
+
+You can:
+
+- add modules from your collection
+- move modules visually
+- duplicate modules
+- replace modules with blanks for spacing
+- review fit and rack-level analysis
+
+Read more: [Racks](../learn-patcher.xyz/racks.md)
+
+### 5. Capture your first patch
+
+Create a patch when you want a reusable memory of a session, not just a temporary note.
+
+Use patches to save:
+
+- the modules involved
+- cable routing
+- names and descriptions
+- notes worth revisiting later
+
+Repeated modules stay distinct, which matters when a patch contains more than one copy of the same hardware.
+
+Read more: [Patches](../learn-patcher.xyz/patches.md)
+
+### 6. Share only what you mean to share
+
+Patcher supports both private workspace use and public sharing.
+
+When your profile is public, people can browse the racks and patches you have chosen to expose.
+
+Read more:
+
+- [Public Profiles](../learn-patcher.xyz/public-profiles.md)
+- [Account and Privacy](../learn-patcher.xyz/account-and-privacy.md)
+
+## Where to go next
+
+- [User Area](../learn-patcher.xyz/user-area.md)
+- [FAQ](../the-project/readme.md)
+- [Contact / Community](../the-project/contact-us-help-community.md)

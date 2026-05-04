@@ -1,43 +1,87 @@
 # FAQ
 
-## General
+## What is Patcher?
 
-### What is patcher.xyz?
+Patcher is a digital twin workspace for Eurorack musicians.
 
-![Patcher Promo Image](../.gitbook/assets/patcher\_promo\_4.png)
+It combines a public module database with private workspace tools for collection tracking, rack planning, patch capture,
+manual access, and selective public sharing.
 
-Patcher.xyz is a platform designed to simplify the process of transcribing and sharing patch notes. It allows users to build patches by clicking the INs and OUTs of modules in the "Patch Builder", visualize the signal flow, and share or save the patches with ease. It also features a rack builder for sorting modules.
+## Do I need an account to use it?
 
-## Usage
+No. You can browse public modules, racks, patches, and documentation without signing in.
 
-### What can I do with the patch builder?
+You only need an account when you want to save your own collection, racks, patches, or public profile.
 
-The patch builder is a versatile tool that allows you to connect CV inputs and CV outputs quickly and easily. For instance, you can create a complex signal flow by connecting multiple modules, visualize it in our unique graph visualizer, and then share the URL or save the list of connections as text. All patches are saved on the website and can be shared with a simple link.
+## Is Patcher only for patches?
 
-### Do I need a list of all modules and their information to use the patch builder?
+No. That is one of the biggest differences between the old product framing and the current one.
 
-Yes, but don't worry! We already have a substantial database of inputs and outputs for each module, thanks to the contributions of our community. We're always looking for more help to map all modules' CVs.
+Patcher is useful across the whole modular workflow:
 
-## Contribution
+- discovering modules
+- tracking what you own
+- planning rack layouts
+- documenting patches
+- sharing selected work publicly
 
-### How can I contribute to the project?
+## Why should I add modules to my collection first?
 
-We're always open to feedback and suggestions for improvement. The best way to contribute is to join our discord channel, which is our main hub for communication. You can also help us by mapping the CVs of modules.
+Because the collection powers the rest of the workspace.
 
-### How can I report issues?
+Once your modules are saved there, they become the practical source for rack planning, patch capture, and manual
+shortcuts.
 
-If you encounter any issues while using patcher.xyz, please report them on our discord server. We appreciate your help in making our platform better.
+## Can I use it privately?
 
-### How can I request features?
+Yes. A good way to start is to treat Patcher as your private operating area first.
 
-Feature requests are welcome! You can submit your ideas and discuss them in our discord channel.
+Public sharing is optional.
 
-## Where can I try patcher.xyz?
+## What becomes public?
 
-You can try it out here: [https://patcher.xyz/](https://patcher.xyz/home)
+Only the surfaces you choose to expose through your public profile and sharing settings should be considered public.
 
-## Where can I join the discord channel?
+If your profile is private, your public profile page is not available.
 
-You can join our discord channel here: [https://discord.gg/pYz3gagUDA](https://discord.gg/pYz3gagUDA)
+## What is a public profile?
 
-[Contact us](contact-us-help-community.md)
+A public profile is the shareable page tied to your username.
+
+It can show the racks and patches you have chosen to expose, along with profile stats and contributor stats.
+
+## Does Patcher support repeated modules in patches?
+
+Yes. Modern Patcher is instance-aware, which matters when the same hardware appears more than once in a patch.
+
+That keeps documentation clearer and more reliable.
+
+## Can I add missing modules?
+
+Yes. If something is missing from the catalogue, use **Submit New Module**.
+
+That helps both the project and your own workflow.
+
+## Can I upload or improve panel images?
+
+Yes, where the relevant contribution surface is available for the module. Improving panel coverage makes rack planning
+better for everyone.
+
+## Can I import data from ModularGrid?
+
+Not directly.
+
+If you need something that is missing, the practical path today is to add or improve the relevant data in Patcher.
+
+## Where should I ask for help?
+
+Start here:
+
+- [Contact us / Help / Community](contact-us-help-community.md)
+- [Discord](https://discord.gg/N6Z32xJR)
+- [GitHub issues](https://github.com/Polyterative/Patcher/issues)
+
+## Where should I suggest features?
+
+Discord is usually the fastest place for product discussion. GitHub issues are also useful for concrete, trackable
+technical proposals.

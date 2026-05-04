@@ -1,54 +1,98 @@
----
-cover: ../.gitbook/assets/patcher_promo_280122 (1).png
-coverY: 0
----
-
 # Patches
 
-![](<../.gitbook/assets/patcher_promo_280122 (1) (Small).png>)
+Patches are the memory layer of Patcher.
 
-## Creating a Patch
+Use them when you want more than a loose note or a photo on your phone. A good patch entry lets you reopen a session
+later and still understand what mattered.
 
-The process of creating a patch is straightforward and can be accomplished in three steps. Here's a step-by-step guide:
+![Patches browser on iPad Pro](../.gitbook/assets/patcher-patches-ipad-pro.png)
 
-1. **Account Creation and Login:** The first step towards creating patches is to have an account. If you don't already have one, you can easily create it by clicking on the 'Sign Up' button located on the homepage. After creating an account, sign in to gain access to your dashboard.
+## What a patch can hold
 
-2. **Navigate to Collection:** After signing in, click on the "Collection" option at the top right corner of your dashboard.
+A patch can bring together:
 
-3. **Patch Creation:** Within the 'Collection' section, you will find an option to create a new patch. Click on this option to commence the creation of your patch.
+- the modules involved
+- cable routing
+- notes and descriptive text
+- naming that makes recall easier later
+- sharing choices for public visibility
 
-![creating a patch](../.gitbook/assets/2021-12-29_09-06-35.gif)
+## Create a patch
 
-## Editing a patch
+1. Go to **User Area**.
+2. Open the **Patches** section.
+3. Click **Create patch**.
+4. Name it clearly.
+5. Add the modules you need.
+6. Start documenting routing and notes.
 
-Editing a patch is as easy as creating one. Here's a video tutorial that guides you through the process:
+## Why collection-first matters here
 
-{% embed url="https://youtu.be/73NsKI4eXLc" %}
+Patches work best when your collection is already accurate.
 
-## Adding Connections to a Patch
+That gives you a reliable source list for module assignment and keeps your patch notes grounded in the hardware you
+actually use.
 
-The process of adding connections to a patch involves a few additional steps. Here's a detailed guide on how to do it:
+Read more: [Collection](collection.md)
 
-1. **Patch Creation:** Begin by creating a new patch. If you're unsure about how to do this, refer back to the 'Creating a Patch' section above.
+## Add modules to a patch
 
-2. **Adding Modules to Collection:** Once you've created a patch, you can start adding modules to it. To do this, navigate to your collection and select the modules you wish to add.
+Before you can document routing well, the relevant modules need to be part of the patch.
 
-3. **Ensure Modules Have Tracked INs and OUTs (Add if Absent):** After adding the modules, it's important to verify that they have tracked INs and OUTs. If these are missing, you'll need to add them.
+The practical flow is:
 
-4. **Select a Connection by Clicking on the INs and OUTs:** Once the modules have tracked INs and OUTs, you can begin establishing connections. This can be done by clicking on the INs and OUTs to select a connection.
+1. keep your collection up to date
+2. create the patch
+3. add the modules involved
+4. document the signal path
 
-5. **Confirm Connection:** After a connection has been selected, confirm it to add it to the patch.
+## Add connections
 
-6. **Save the Patch:** Don't forget to save your patch once you're done adding connections.
+Once the patch contains the right modules, add the routing step by step.
 
-## Removing Connections from a Patch
+This is where Patcher becomes genuinely useful for recall:
 
-If you need to remove connections from a patch, you can do so by following these steps:
+- inputs and outputs can be documented intentionally
+- repeated modules remain distinct
+- the patch stays readable later instead of turning into guesswork
 
-1. **Open the Patch:** Begin by opening the patch from which you wish to remove connections.
+If a module is missing useful I/O data, improve the module data first when possible. That pays off everywhere else too.
 
-2. **Review the List of Connections:** Once the patch is open, take a look at the list of connections.
+## Edit without fear
 
-3. **Remove Connection:** Identify the connection you wish to remove and click on the 'Remove' button.
+Patches are meant to evolve while you work.
 
-4. **Save Changes:** After removing the desired connections, ensure to save your changes.
+Current Patcher behavior is built around faster iteration, including auto-save for patch state and edits, so the app is
+much better suited to active use than the old docs suggest.
+
+## Naming and notes
+
+The more patches you save, the more naming matters.
+
+Good patch names and notes should answer:
+
+- what the patch does
+- what makes it different
+- what you would need to remember under pressure
+
+## Public and private use
+
+Not every patch needs to be shared.
+
+Some people use Patcher as a private recall library first and turn public sharing on only for selected work later.
+
+That is a good default.
+
+## Best practices
+
+- save patches while the session is still fresh
+- keep names specific
+- note unusual routing or settings
+- treat repeated modules as distinct voices, not interchangeable placeholders
+- share only the patches you actually want attached to your public profile
+
+## Related pages
+
+- [Collection](collection.md)
+- [User Area](user-area.md)
+- [Public Profiles](public-profiles.md)

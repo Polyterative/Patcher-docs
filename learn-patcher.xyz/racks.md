@@ -1,31 +1,96 @@
----
-cover: ../.gitbook/assets/patcher_promo_280122 (2).png
-coverY: 0
----
-
 # Racks
 
-![](<../.gitbook/assets/patcher_promo_280122 (2) (Small).png>)
+Racks are where planning becomes useful.
+
+Use them to model a real case, test an idea before rearranging hardware, or compare multiple layouts without losing the
+earlier version.
+
+![Racks browser on iPad Pro](../.gitbook/assets/patcher-racks-ipad-pro.png)
+
+## What racks are for
+
+- planning a future case
+- documenting a current case
+- testing fit before buying
+- comparing alternate layouts
+- sharing a clean public version of your setup
 
 ## Create a rack
 
-- navigate to [“collection”](../learn-patcher.xyz/collection.md)
-- click [“Create Rack”](../learn-patcher.xyz/create-rack.md)
-- Open your new rack
+1. Go to **User Area**.
+2. Open the **Racks** section.
+3. Click **Create rack**.
+4. Open the new rack and start building.
 
 ## Add modules to a rack
 
-- Create a rack
-- navigate to [“modules”](../learn-patcher.xyz/modules.md)
-- Search for a module, open it
-- Click on the ‘add to rack’
-- Confirm
+The usual path is:
 
-## Edit a rack
+1. Add your real modules to your collection first.
+2. Open a rack.
+3. Add modules from the collection-driven workflow.
+4. Arrange them until the layout feels right.
 
-{% embed url="https://www.youtube.com/watch?v=ZVi0Tw1Nj_Y" %}
+This keeps the rack connected to the hardware you actually own instead of becoming a disconnected mockup.
 
-- Open rack
-- Click on the little lock button to lock/unlock
-- Drag and drop to move modules in rack
-- Save is automatic
+## Edit and reorganize
+
+Racks are meant to be adjusted repeatedly.
+
+Common actions include:
+
+- moving modules visually
+- duplicating a module
+- deleting a module
+- replacing a module with a blank panel
+- clearing part of a row when you want to rethink a section
+
+## Blank panels and spacing
+
+If you need a gap, use a blank panel instead of forcing the layout to stay fully packed.
+
+That is useful for:
+
+- ergonomic spacing
+- cable clearance
+- representing intentional empty HP
+- planning future additions
+
+## Analysis and fit
+
+Rack detail is no longer just a visual builder.
+
+Use it to review practical constraints such as:
+
+- module count
+- fit and arrangement
+- power analysis
+- balance analysis
+
+These views help you spot problems earlier, before you commit to physical changes.
+
+## Panel variants
+
+Some modules support more than one panel image or style.
+
+When available, you can switch variants inside a rack so the layout better matches the real hardware in front of you.
+That is especially useful when the same module exists in different finishes or panel revisions.
+
+## Saving and sharing
+
+Racks are designed for iteration. Open them, edit them, and keep refining.
+
+When you want to share, make sure the rack reflects what you actually want visible on your public surface.
+
+## Best practices
+
+- start with the modules you own
+- leave some room when that helps usability
+- check rack analysis before calling a layout finished
+- keep separate racks for alternate versions instead of overwriting one plan
+
+## Related pages
+
+- [Collection](collection.md)
+- [User Area](user-area.md)
+- [Public Profiles](public-profiles.md)
