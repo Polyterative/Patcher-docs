@@ -30,7 +30,7 @@ Use Patcher as your own working space first, then make specific surfaces public 
 
 Your public profile can be switched on or off from your signed-in workspace.
 
-When the profile is private, the public profile page should not be available to other people.
+When the profile is private, the public profile page is not available to other people.
 
 ## Username and profile basics
 
