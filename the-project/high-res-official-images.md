@@ -12,6 +12,7 @@ These files are available in the repository for press, linking, and project refe
 - current racks screenshot
 - current patches screenshot
 - current user area screenshot
+- current account screenshot
 - current public profile screenshot
 
 ## Files
@@ -35,6 +36,8 @@ These captures show the live product shape more directly than the older promo im
 {% file src=".gitbook/assets/patcher-patches-ipad-pro.png" %}
 
 {% file src=".gitbook/assets/patcher-user-area-ipad-pro.png" %}
+
+{% file src=".gitbook/assets/patcher-account-ipad-pro.png" %}
 
 {% file src=".gitbook/assets/patcher-public-profile-ipad-pro.png" %}
 
