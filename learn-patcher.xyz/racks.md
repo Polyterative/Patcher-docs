@@ -24,14 +24,14 @@ earlier version.
 
 ## Add modules to a rack
 
-The usual path is:
+The usual flow is:
 
 1. Add your real modules to your collection first.
 2. Open a rack.
 3. Add modules from the collection-driven workflow.
 4. Arrange them until the layout feels right.
 
-This keeps the rack connected to the hardware you actually own instead of becoming a disconnected mockup.
+This keeps the rack connected to the hardware you actually own instead of turning into a disconnected mockup.
 
 ## Edit and reorganize
 
@@ -78,7 +78,7 @@ That is especially useful when the same module exists in different finishes or p
 
 ## Saving and sharing
 
-Racks are designed for iteration. Open them, edit them, and keep refining.
+Racks are built for iteration. Open them, edit them, and keep refining.
 
 When you want to share, make sure the rack reflects what you actually want visible on your public surface.
 

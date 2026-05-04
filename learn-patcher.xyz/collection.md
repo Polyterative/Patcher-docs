@@ -2,7 +2,7 @@
 
 Your collection is the foundation of the whole workspace.
 
-If Modules is the catalogue, Collection is your personal truth.
+If Modules is the catalogue, Collection is your own working list.
 
 ## What the collection does
 
@@ -34,11 +34,11 @@ A strong collection makes everything downstream faster:
 - public sharing reflects your actual setup
 - manuals gather in one place as your library grows
 
-If your collection is incomplete, the rest of the workspace becomes less useful than it could be.
+If your collection is incomplete, the rest of the workspace becomes harder to trust.
 
 ## Collection is not just storage
 
-Think of it as operational data, not a passive list.
+Think of it as working data, not a passive list.
 
 A good collection helps you answer questions like:
 
@@ -56,7 +56,7 @@ A good collection helps you answer questions like:
 
 ## Where it leads next
 
-Once the collection feels accurate, move into:
+Once the collection feels accurate, move on to:
 
 - [User Area](user-area.md)
 - [Racks](racks.md)

@@ -50,7 +50,7 @@ The practical flow is:
 
 Once the patch contains the right modules, add the routing step by step.
 
-This is where Patcher becomes genuinely useful for recall:
+This is where Patcher becomes especially useful for recall:
 
 - inputs and outputs can be documented intentionally
 - repeated modules remain distinct
@@ -79,7 +79,7 @@ Good patch names and notes should answer:
 
 Not every patch needs to be shared.
 
-Some people use Patcher as a private recall library first and turn public sharing on only for selected work later.
+Some people use Patcher as a private recall library first and turn public sharing on later for selected work.
 
 That is a good default.
 

@@ -38,7 +38,7 @@ Depending on the module, the detail page can include:
 4. Open the detail page.
 5. Use the add action to save it to your collection.
 
-Once a module is in your collection, it becomes available across the rest of your workspace.
+Once a module is in your collection, it becomes available across the rest of the app.
 
 ## Why the collection matters
 
@@ -49,13 +49,13 @@ Your collection is not just a wishlist. It powers:
 - manual shortcuts in your user area
 - a more realistic digital twin of your real system
 
-If you skip this step, your racks and patches will feel disconnected from the hardware you actually use.
+If you skip this step, your racks and patches will feel less connected to the hardware you actually use.
 
 ## Missing module? Add it
 
 If the database does not contain a module yet, use **Submit New Module**.
 
-That helps both the public catalogue and your own workflow, because once the module exists in the library, it is much
+That helps both the public catalogue and your own workflow, because once the module exists in the library, it becomes
 easier to use everywhere else in Patcher.
 
 ## Panel images and manuals
@@ -63,8 +63,7 @@ easier to use everywhere else in Patcher.
 Some modules include multiple panel images or variants. That matters when the physical look of the module affects your
 planning or rack screenshots.
 
-Manual links are especially useful once your collection grows, because Patcher also surfaces those manuals back in your
-user area as a practical shortcut.
+Manual links become more useful as your collection grows, because Patcher also surfaces those manuals in your user area.
 
 ## Best way to use Modules
 

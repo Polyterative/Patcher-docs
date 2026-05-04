@@ -34,7 +34,7 @@ shortcuts.
 
 ## Can I use it privately?
 
-Yes. A good way to start is to treat Patcher as your private operating area first.
+Yes. A good way to start is to use Patcher as a private working space first.
 
 Public sharing is optional.
 

@@ -37,7 +37,7 @@ After signing up, your personal workspace becomes available through **User Area*
 
 Your collection is the source list for the rest of the app.
 
-Once modules are in your collection, they become available while:
+Once modules are in your collection, they become available for:
 
 - planning racks
 - building patches
@@ -70,7 +70,7 @@ Use patches to save:
 - names and descriptions
 - notes worth revisiting later
 
-Repeated modules stay distinct, which matters when a patch contains more than one copy of the same hardware.
+Repeated modules stay distinct, which matters when a patch includes more than one copy of the same hardware.
 
 Read more: [Patches](../learn-patcher.xyz/patches.md)
 
