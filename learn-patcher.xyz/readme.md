@@ -2,7 +2,7 @@
 
 This section covers the parts of Patcher you will actually use day to day.
 
-If the docs homepage explains what Patcher is, these pages explain how the workspace turns into something practical.
+If the docs homepage explains what Patcher is, these pages explain how to use it well.
 
 ## The shortest version
 
@@ -14,7 +14,7 @@ Patcher works best when you move through it in this order:
 4. capture patches
 5. share selected work when it is ready
 
-That is the simplest way to build a useful digital twin instead of a disconnected pile of notes.
+That is the simplest way to build a workspace you will actually want to return to.
 
 ## The main pages
 

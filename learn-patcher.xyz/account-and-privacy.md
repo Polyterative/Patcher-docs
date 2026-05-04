@@ -1,14 +1,13 @@
 # Account and Privacy
 
-This page covers the basic account choices that shape how public or private your Patcher use feels.
+This page covers the account choices that shape how public or private your Patcher use feels.
 
 ![Account page on iPad Pro](../.gitbook/assets/patcher-account-ipad-pro.png)
 
 ## Browsing without signing in
 
-You can explore the public side of Patcher without an account.
-
-That includes public module browsing and other public-facing surfaces.
+You can explore the public side of Patcher without an account, including module browsing and other public-facing
+surfaces.
 
 ## What signing in unlocks
 
@@ -22,9 +21,8 @@ Once you have an account, you can:
 
 ## Public vs private
 
-A good default is to start private.
-
-Use Patcher as your own working space first, then make specific surfaces public when they are ready.
+A good default is to start private. Use Patcher as your own working space first, then make specific surfaces public when
+they are ready.
 
 ## Public profile visibility
 

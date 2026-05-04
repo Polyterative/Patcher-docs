@@ -2,7 +2,7 @@
 
 Public profiles are the shareable face of your workspace.
 
-They give you a clean public page tied to your username without forcing everything you do in Patcher to become public.
+They give you a clean page tied to your username without forcing everything you do in Patcher to become public.
 
 ![Public profile on iPad Pro](../.gitbook/assets/patcher-public-profile-ipad-pro.png)
 
@@ -21,7 +21,7 @@ When enabled, a profile can show:
 
 Public visibility is a choice, not a requirement.
 
-You can keep your profile private and still use the rest of Patcher as a personal workspace.
+You can keep your profile private and still use the rest of Patcher normally.
 
 ## Typical uses
 

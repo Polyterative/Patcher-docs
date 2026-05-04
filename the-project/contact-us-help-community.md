@@ -1,6 +1,6 @@
 # Contact us / Help / Community
 
-If you need help, found a problem, or want to suggest something, use the channel that fits the situation best.
+If you need help, found a problem, or want to suggest something, use the channel that fits best.
 
 ## Fastest place for discussion
 

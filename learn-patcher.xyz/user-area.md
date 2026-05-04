@@ -20,7 +20,7 @@ The layout is built around a few practical sections:
 
 ## Why it matters
 
-This is the page that turns Patcher from a public catalogue into a real working tool.
+This is where Patcher starts feeling like a working tool instead of only a catalogue.
 
 As your workspace grows, User Area becomes the fastest way to:
 
@@ -31,10 +31,8 @@ As your workspace grows, User Area becomes the fastest way to:
 
 ## Global search
 
-The search field in User Area is not limited to one section.
-
-It is designed to help you scan modules, racks, and patches together, which becomes increasingly useful once the
-workspace is no longer tiny.
+The search field in User Area is not limited to one section. It helps you scan modules, racks, and patches together,
+which becomes increasingly useful once your workspace is no longer tiny.
 
 ## Profile controls
 
@@ -53,7 +51,7 @@ From here you can:
 3. Create one patch.
 4. Check that your profile settings match what you actually want public.
 
-That is enough to make the workspace start paying off.
+That is usually enough to make the workspace start paying off.
 
 ## Related pages
 

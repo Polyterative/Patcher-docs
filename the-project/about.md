@@ -34,14 +34,14 @@ Patcher should help you move between:
 - documentation
 - sharing
 
-without constantly re-entering the same context.
+without constantly rebuilding the same context from scratch.
 
 ## Open by default on the public side
 
 The public module database is meant to stay accessible.
 
 Browsing public information should not require an account, and the project remains open-source. That public surface is a
-big part of the value: it lets people research, compare, and learn before they decide to build their own workspace.
+big part of the value: people can research, compare, and learn before they decide to build their own workspace.
 
 ## Who it is for
 
@@ -58,7 +58,8 @@ Patcher is for modular users who want a cleaner system around their instrument:
 Patcher is not trying to replace the instrument itself, replace manuals, or flatten modular practice into a rigid
 format.
 
-It is meant to reduce friction around the parts that are easy to lose: hardware context, patch memory, and organization.
+It is meant to reduce friction around the parts that are easiest to lose: hardware context, patch memory, and
+organization.
 
 ## Where to go next
 

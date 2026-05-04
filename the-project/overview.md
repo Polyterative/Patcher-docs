@@ -1,7 +1,7 @@
 # Project Overview
 
-This section covers the broader context around Patcher: what the project is, where it stands, how to get help, and which
-resources to use when you want more than product walkthroughs.
+This section covers the broader context around Patcher: what the project is, where it stands, how to get help, and where
+to find media or release information.
 
 ## What lives here
 
