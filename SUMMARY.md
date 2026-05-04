@@ -19,6 +19,7 @@
 
 ## PROJECT
 
+* [Overview](the-project/overview.md)
 * [FAQ](the-project/readme.md)
 * [About](the-project/about.md)
 * [Development status](the-project/development-status.md)
