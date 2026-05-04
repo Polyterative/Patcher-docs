@@ -7,13 +7,13 @@ collection tracking, rack planning, patch documentation, manual access, and sele
 
 ## Boilerplate
 
-Patcher helps modular users keep their real systems organized in a way that still feels useful later. Instead of
-splitting module research, rack planning, patch notes, and public sharing across several disconnected tools, Patcher
-brings those workflows together in one place.
+Patcher helps modular users keep their real systems organized in a way that still holds up later. Instead of splitting
+module research, rack planning, patch notes, and public sharing across several disconnected tools, Patcher brings those
+workflows together in one place.
 
 Users can browse the public module database without an account, then create a personal workspace when they want to save
 their collection, build racks, capture patches, and publish selected work through a public profile. The project is
-open-source and built for regular use rather than passive collection storage.
+open-source and built for active use rather than passive collection storage.
 
 ## Key product points
 

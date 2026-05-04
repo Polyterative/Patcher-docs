@@ -17,12 +17,12 @@ to find media or release information.
 
 Use these pages when you want to:
 
-- understand the project at a higher level
+- understand the project beyond day-to-day product use
 - find support or community channels
 - check release direction
 - pull media assets or boilerplate
 
-If you want product guidance instead, go back to:
+If you want hands-on product guidance instead, go back to:
 
 - [Quick start](../what-is-this/quick-start.md)
 - [Core Workflows](../learn-patcher.xyz/readme.md)

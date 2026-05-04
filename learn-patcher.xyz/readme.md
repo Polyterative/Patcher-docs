@@ -1,8 +1,8 @@
 # Core Workflows
 
-This section covers the parts of Patcher you will actually use day to day.
+This section covers the parts of Patcher you will actually use regularly.
 
-If the docs homepage explains what Patcher is, these pages explain how to use it well.
+If the docs homepage explains what Patcher is, these pages show how it works in practice.
 
 ## The shortest version
 
@@ -14,7 +14,7 @@ Patcher works best when you move through it in this order:
 4. capture patches
 5. share selected work when it is ready
 
-That is the simplest way to build a workspace you will actually want to return to.
+That is the simplest way to build a workspace worth returning to.
 
 ## The main pages
 

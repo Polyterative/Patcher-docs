@@ -1,11 +1,11 @@
 # Quick Start
 
-This is the fastest way to get real value out of Patcher.
+This is the fastest way to get practical value out of Patcher.
 
 ## The short version
 
 1. Browse modules without signing in.
-2. Create an account when you want to save your own data.
+2. Create an account when you want to save your own work.
 3. Add the modules you own to your collection.
 4. Build a rack to check fit and layout.
 5. Create a patch to save routing and notes.
@@ -31,7 +31,7 @@ Read more: [Modules](../learn-patcher.xyz/modules.md)
 
 You can explore public data without an account, but you need one to build your own workspace.
 
-After signing up, your personal workspace becomes available through **User Area**.
+After signing up, your workspace becomes available through **User Area**.
 
 ### 3. Add your real modules to your collection
 

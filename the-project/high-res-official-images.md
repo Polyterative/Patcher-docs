@@ -1,12 +1,10 @@
 # Official images
 
-These files are available in the repository for press, linking, and project references.
+These files are available in the repository for press, linking, and general project references.
 
 ## Included assets
 
-- promo image 1
-- promo image 2
-- promo image 3
+- three promo images
 - current home screenshot
 - current modules screenshot
 - current racks screenshot
@@ -15,7 +13,7 @@ These files are available in the repository for press, linking, and project refe
 - current account screenshot
 - current public profile screenshot
 
-## Files
+## Promo images
 
 {% file src=".gitbook/assets/patcher-promo-3.png" %}
 
@@ -25,7 +23,8 @@ These files are available in the repository for press, linking, and project refe
 
 ## Current product screenshots
 
-These captures show the live product more directly than the older promo images.
+These captures show the live product more directly than the older promo images and are the better choice when you want
+the current interface.
 
 {% file src=".gitbook/assets/patcher-home-ipad-pro.png" %}
 
@@ -41,7 +40,7 @@ These captures show the live product more directly than the older promo images.
 
 {% file src=".gitbook/assets/patcher-public-profile-ipad-pro.png" %}
 
-If you need product context to go with these images, use:
+If you need product context to pair with these images, use:
 
 - [About](about.md)
 - [Press / media boilerplate](press-release.md)

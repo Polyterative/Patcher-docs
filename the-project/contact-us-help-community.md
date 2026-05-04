@@ -14,7 +14,7 @@ For questions, feedback, feature ideas, and general project discussion:
 
 ### GitHub issues
 
-For bug reports and concrete technical proposals:
+For bug reports, regressions, and concrete technical proposals:
 
 [https://github.com/Polyterative/Patcher/issues](https://github.com/Polyterative/Patcher/issues)
 
@@ -32,7 +32,7 @@ For bug reports and concrete technical proposals:
 
 ## Before you reach out
 
-These pages often answer the first practical questions:
+These pages often answer the most common practical questions first:
 
 - [Quick start](../what-is-this/quick-start.md)
 - [FAQ](readme.md)
