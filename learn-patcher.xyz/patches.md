@@ -58,6 +58,13 @@ This is where Patcher becomes especially useful for recall:
 
 If a module is missing useful I/O data, improve the module data first when possible. That pays off elsewhere too.
 
+## Repeated modules and instance clarity
+
+When the same hardware appears more than once in a patch, Patcher keeps those instances distinct.
+
+Use that deliberately. Give repeated modules names or notes that make the role obvious later, especially when one module is
+doing more than one job in the same session.
+
 ## Edit without fear
 
 Patches are meant to evolve while you work.
@@ -79,9 +86,10 @@ Good patch names and notes should answer:
 
 Not every patch needs to be shared.
 
-Some people use Patcher as a private recall library first and turn public sharing on later for selected work.
+New patches currently start public, so check the sharing toggle if you want to keep a patch private while it is still a
+working draft.
 
-That is a good default.
+For public discovery, the patch itself needs to be public and your profile also needs to be public.
 
 ## Best practices
 

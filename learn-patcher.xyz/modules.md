@@ -4,12 +4,15 @@ The module browser is where most people start.
 
 It is both the public catalogue and the front door to your own workspace.
 
+Browsing is public. Adding modules to your collection or using collection-driven actions requires a signed-in account.
+
 ![Modules browser on iPad Pro](../.gitbook/assets/patcher-modules-ipad-pro.png)
 
 ## What you can do here
 
 - browse the public module database
-- search for modules by name or manufacturer
+- search for modules by name, manufacturer, description, and tags
+- filter by module size, format, and other structured metadata
 - inspect module details before adding anything to your workspace
 - add owned modules to your collection
 - open manuals quickly when they are available
@@ -29,6 +32,10 @@ Depending on the module, the detail page can include:
 - links to manuals
 - public racks using the module
 - public patches using the module
+
+Manual links only appear when a module has complete enough data and a manual URL has actually been added.
+
+The related racks and patches sections show public examples only.
 
 ## Add a module to your collection
 
@@ -59,12 +66,18 @@ If the database does not contain a module yet, use **Submit New Module**.
 That helps both the public catalogue and your own workflow, because once the module exists in the library, it becomes
 usable everywhere else in Patcher.
 
+Module data coverage is still improving. If a module exists but important details are missing, improving that module helps
+the rest of the workflow too.
+
 ## Panel images and manuals
 
 Some modules include multiple panel images or variants. That matters when the physical look of the module affects your
 planning or rack screenshots.
 
 Manual links become more useful as your collection grows, because Patcher also surfaces those manuals in User Area.
+
+Not every module currently has a manual link or complete metadata, so treat missing data as a reason to improve the record,
+not as proof the feature is unavailable.
 
 ## Best way to use Modules
 

@@ -6,7 +6,8 @@ This page covers the account choices that shape how public or private your Patch
 
 ## Browsing without signing in
 
-You can explore the public side of Patcher without an account, including modules and other public-facing surfaces.
+You can explore the public side of Patcher without an account, including modules, public racks, public patches, and public
+profiles.
 
 ## What signing in unlocks
 
@@ -20,8 +21,12 @@ Once you have an account, you can:
 
 ## Public vs private
 
-A good default is to start private. Use Patcher as your own workspace first, then make specific surfaces public when
-they are ready.
+Profile visibility and item visibility are separate choices.
+
+New racks and patches currently start public, so check their sharing toggle if you want to keep them private while you
+work.
+
+For public discovery, both the item and the public profile need to be public.
 
 ## Public profile visibility
 
@@ -31,7 +36,7 @@ When the profile is private, the public profile page is not available to other p
 
 ## Username and profile basics
 
-Your username is part of your public profile identity. If you add a website, that can appear there too.
+Your username is part of your public profile identity. If your profile includes a website, that can appear there too.
 
 ## Sharing carefully
 

@@ -14,16 +14,21 @@ This is useful when you want to:
 
 ## Workspace search
 
-Inside **User Area**, search works across modules, racks, and patches together.
+Inside **User Area**, one search query filters your modules, racks, patches, manuals, and comments at the same time.
 
 That matters once your workspace holds enough material that scrolling stops being efficient.
+
+This is not a single combined cross-entity search result page. Each section keeps its own results while reusing the same
+query.
+
+User Area itself requires a signed-in account.
 
 ## Discovery surfaces that matter
 
 Patcher currently supports discovery through:
 
 - module search and browsing
-- related racks and patches from module pages
+- related public racks and patches from module pages
 - public rack browsing
 - public patch browsing
 - public profiles

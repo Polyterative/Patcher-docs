@@ -4,6 +4,9 @@ Your collection is the foundation of the whole workspace.
 
 If Modules is the catalogue, Collection is the working inventory behind everything else.
 
+Collection management requires a signed-in account. Public visitors can browse modules without logging in, but they cannot
+save modules into a personal collection.
+
 ## What the collection does
 
 The collection tracks the modules you want available in your workspace.
@@ -53,6 +56,9 @@ A good collection helps you answer questions like:
 - remove or adjust entries when your system changes
 - use the collection before making a new rack or patch
 - submit missing modules instead of working around gaps forever
+
+If you see disabled collection actions while browsing publicly, that is expected. Those actions become available after you
+sign in.
 
 ## Where it leads next
 

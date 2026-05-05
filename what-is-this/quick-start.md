@@ -9,7 +9,7 @@ This is the fastest way to get practical value out of Patcher.
 3. Add the modules you own to your collection.
 4. Build a rack to check fit and layout.
 5. Create a patch to save routing and notes.
-6. Make selected work public only if you want to share it.
+6. Review your sharing settings before you share links publicly.
 
 ## First useful session
 
@@ -22,8 +22,8 @@ Open module detail pages to check:
 - size and format
 - power information
 - panel images
-- related racks and patches
-- manual links
+- related public racks and patches
+- manual links when they are available
 
 Read more: [Modules](../learn-patcher.xyz/modules.md)
 
@@ -55,7 +55,7 @@ You can:
 - move modules visually
 - duplicate modules
 - replace modules with blanks for spacing
-- review fit and rack-level analysis
+- review fit plus rack analysis tools such as power and function views
 
 Read more: [Racks](../learn-patcher.xyz/racks.md)
 
@@ -74,11 +74,14 @@ Repeated modules stay distinct, which matters when a patch includes more than on
 
 Read more: [Patches](../learn-patcher.xyz/patches.md)
 
-### 6. Share only what you mean to share
+### 6. Review sharing settings before you share links
 
 Patcher supports both private workspace use and public sharing.
 
-When your profile is public, people can browse the racks and patches you have chosen to expose.
+Public browsing only shows racks and patches that are marked public and belong to a public profile.
+
+New racks and patches currently start public, so check their sharing toggle if you want to keep them private while you
+work.
 
 Read more:
 

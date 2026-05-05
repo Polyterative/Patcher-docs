@@ -2,11 +2,13 @@
 
 Patcher is a digital twin workspace for Eurorack musicians.
 
+This page is a short orientation point.
+
 If you came here from the app and want the fastest onboarding path, start with:
 
 - [Quick start](quick-start.md)
 
-If you want the broader tour:
+If you want the broader tour after that:
 
 - [Docs home](../README.md)
 - [Core Workflows](../learn-patcher.xyz/readme.md)

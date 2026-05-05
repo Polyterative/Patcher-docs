@@ -11,7 +11,7 @@ They give you a clean page tied to your username without making everything you d
 When enabled, a profile can show:
 
 - your username
-- your website link, if set
+- your website link, if one is present on the profile
 - public racks
 - public patches
 - profile stats
@@ -22,6 +22,8 @@ When enabled, a profile can show:
 Public visibility is a choice, not a requirement.
 
 You can keep your profile private and still use the rest of Patcher normally.
+
+Public browsing only shows racks and patches when both the item itself and the profile are public.
 
 ## Typical uses
 

@@ -65,9 +65,16 @@ Use it to review practical constraints such as:
 - module count
 - fit and arrangement
 - power analysis
-- balance analysis
+- function and balance-oriented analysis
 
 These views help you spot problems before they turn into physical changes.
+
+Power analysis helps you review draw across the main rails.
+
+Function analysis helps you read the rack by role instead of only by placement.
+
+Balance views depend on module data coverage, so they are most useful when the modules in the rack have enough category
+data to support meaningful analysis.
 
 ## Panel variants
 
@@ -80,7 +87,9 @@ That is especially useful when the same module exists in different finishes or p
 
 Racks are built for iteration. Open them, edit them, and keep refining.
 
-When you want to share, make sure the rack reflects what you actually want visible on your public surface.
+New racks currently start public, so check the sharing toggle if you want a rack private while you iterate.
+
+For public discovery, the rack itself needs to be public and your profile also needs to be public.
 
 ## Best practices
 

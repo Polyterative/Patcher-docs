@@ -33,15 +33,16 @@ Once your modules are saved there, they become the source for rack planning, pat
 
 ## Can I use it privately?
 
-Yes. A good way to start is to use Patcher as a private workspace first.
+Yes, but review the sharing controls early.
 
-Public sharing is optional.
+Public sharing is optional, but new racks and new patches currently start public until you change their sharing setting.
 
 ## What becomes public?
 
-Only the surfaces you choose to expose through your public profile and sharing settings should be considered public.
+Public browsing only shows racks and patches that are marked public and belong to a public profile.
 
-If your profile is private, your public profile page is not available.
+If your profile is private, your public profile page is not available and your public racks or patches are not discoverable
+through the public browsing surfaces.
 
 ## What is a public profile?
 
