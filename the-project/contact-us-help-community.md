@@ -8,7 +8,7 @@ If you need help, found a problem, or want to suggest something, use the channel
 
 For questions, feedback, feature ideas, and general project discussion:
 
-[https://discord.gg/N6Z32xJR](https://discord.gg/N6Z32xJR)
+[https://discord.gg/JNy2HTb5ru](https://discord.gg/JNy2HTb5ru)
 
 ## Best place for trackable technical issues
 

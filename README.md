@@ -47,6 +47,6 @@ If you are new to Patcher, begin with these pages:
 ## Useful links
 
 - [Open Patcher](https://patcher.xyz/)
-- [Discord community](https://discord.gg/N6Z32xJR)
+- [Discord community](https://discord.gg/JNy2HTb5ru)
 - [GitHub project](https://github.com/Polyterative/Patcher)
 - [Status page](https://patcher.statuspage.io/)

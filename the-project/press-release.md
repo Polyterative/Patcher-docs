@@ -29,4 +29,4 @@ open-source and built for active use rather than passive collection storage.
 - [Documentation](https://docs.patcher.xyz/)
 - [Official images](high-res-official-images.md)
 - [GitHub](https://github.com/Polyterative/Patcher)
-- [Discord](https://discord.gg/N6Z32xJR)
+- [Discord](https://discord.gg/JNy2HTb5ru)

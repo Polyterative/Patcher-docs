@@ -57,4 +57,4 @@ For detailed release history, use:
 
 - [Changelog](changelog.md)
 - [Main GitHub repository](https://github.com/Polyterative/Patcher)
-- [Discord community](https://discord.gg/N6Z32xJR)
+- [Discord community](https://discord.gg/JNy2HTb5ru)

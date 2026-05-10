@@ -78,7 +78,7 @@ If you need something that is missing, the practical path today is to add or imp
 Start here:
 
 - [Contact us / Help / Community](contact-us-help-community.md)
-- [Discord](https://discord.gg/N6Z32xJR)
+- [Discord](https://discord.gg/JNy2HTb5ru)
 - [GitHub issues](https://github.com/Polyterative/Patcher/issues)
 
 ## Where should I suggest features?
