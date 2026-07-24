@@ -103,7 +103,7 @@ count against that key's quota.
 | `X-RateLimit-Remaining-Month` | Requests remaining in the current monthly window. |
 | `X-RateLimit-Limit-Minute` | Per-minute request limit for the key. |
 | `X-RateLimit-Remaining-Minute` | Requests remaining in the current minute window. |
-| `X-RateLimit-Reset` | Reset time for the relevant rate limit window. |
+| `X-RateLimit-Reset` | Start timestamp of the current minute window. |
 | `Retry-After` | Seconds to wait before retrying after a `429` response. |
 
 ## Pagination
@@ -238,11 +238,11 @@ Keep the `request_id` when reporting a problem.
 
 | Status | `error.code` | Meaning |
 | --- | --- | --- |
-| `400` | `unsupported_parameter` | The request contains a parameter that is reserved or not supported, such as `q`. |
-| `401` | `unauthorized` | The API key is missing, malformed, or not accepted. |
+| `400` | `unknown_parameter`, `invalid_parameter`, `unsupported_parameter` | The request contains an unknown, invalid, reserved, or unsupported parameter. |
+| `401` | `missing_authorization`, `malformed_authorization`, `invalid_key` | The API key is missing, malformed, or not accepted. |
 | `404` | `not_found` | The requested resource does not exist. |
-| `429` | `rate_limited` | The key exceeded a monthly or per-minute quota. Check `Retry-After`. |
-| `503` | `service_unavailable` | The API is temporarily unavailable. |
+| `429` | `rate_limit_exceeded` | The key exceeded a monthly or per-minute quota. Check `Retry-After`. |
+| `503` | `configuration_error`, `authentication_unavailable`, `quota_unavailable`, `origin_unavailable` | The API is temporarily unavailable or not fully configured. |
 
 ## Endpoint examples
 
