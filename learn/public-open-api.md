@@ -33,6 +33,9 @@ Use the Public Open API to read Patcher catalogue data:
 | `GET /v1/standards` | List standards. |
 | `GET /v1/tags` | List tags. |
 
+All resource IDs and ID-valued filters are positive integers. That includes module IDs, manufacturer IDs, and
+the values passed to `manufacturer_id`, `standard`, and `tag`.
+
 The catalogue data is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use
 it in an app, website, dataset, or generated output, include attribution to Patcher.
 
@@ -94,7 +97,14 @@ Partner tier access may be granted manually. There is no anonymous tier and no p
 Quota and rate limit headers are calculated per API key. Shared cache hits still authenticate the request and
 count against that key's quota.
 
-If a request is rate limited, the response includes `Retry-After`.
+| Header | Meaning |
+| --- | --- |
+| `X-RateLimit-Limit-Month` | Monthly request limit for the key. |
+| `X-RateLimit-Remaining-Month` | Requests remaining in the current monthly window. |
+| `X-RateLimit-Limit-Minute` | Per-minute request limit for the key. |
+| `X-RateLimit-Remaining-Minute` | Requests remaining in the current minute window. |
+| `X-RateLimit-Reset` | Reset time for the relevant rate limit window. |
+| `Retry-After` | Seconds to wait before retrying after a `429` response. |
 
 ## Pagination
 
@@ -110,6 +120,24 @@ Example:
 ```bash
 curl "https://api.patcher.xyz/v1/modules?limit=50&cursor=OPAQUE_CURSOR_FROM_PREVIOUS_RESPONSE" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
+```
+
+Sample list response:
+
+```json
+{
+  "data": [
+    {
+      "id": 123,
+      "name": "Example Module",
+      "manufacturer_id": 10,
+      "hp": 8
+    }
+  ],
+  "page": {
+    "next_cursor": "OPAQUE_CURSOR_FROM_RESPONSE"
+  }
+}
 ```
 
 ## Sorting
@@ -138,12 +166,12 @@ curl "https://api.patcher.xyz/v1/manufacturers?sort=name" \
 Examples:
 
 ```bash
-curl "https://api.patcher.xyz/v1/modules?manufacturer_id=mutable-instruments&sort=name" \
+curl "https://api.patcher.xyz/v1/modules?manufacturer_id=10&sort=name" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
 
 ```bash
-curl "https://api.patcher.xyz/v1/modules?hp=8&standard=eurorack&tag=oscillator" \
+curl "https://api.patcher.xyz/v1/modules?hp=8&standard=1&tag=42" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
 
@@ -164,7 +192,7 @@ Modules support:
 Example:
 
 ```bash
-curl "https://api.patcher.xyz/v1/modules/plaits?include=ins,outs,tags,panels" \
+curl "https://api.patcher.xyz/v1/modules/123?include=ins,outs,tags,panels" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
 
@@ -175,7 +203,7 @@ Manufacturer detail supports:
 Example:
 
 ```bash
-curl "https://api.patcher.xyz/v1/manufacturers/mutable-instruments?include=modules" \
+curl "https://api.patcher.xyz/v1/manufacturers/10?include=modules" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
 
@@ -208,6 +236,14 @@ Errors use this shape:
 
 Keep the `request_id` when reporting a problem.
 
+| Status | `error.code` | Meaning |
+| --- | --- | --- |
+| `400` | `unsupported_parameter` | The request contains a parameter that is reserved or not supported, such as `q`. |
+| `401` | `unauthorized` | The API key is missing, malformed, or not accepted. |
+| `404` | `not_found` | The requested resource does not exist. |
+| `429` | `rate_limited` | The key exceeded a monthly or per-minute quota. Check `Retry-After`. |
+| `503` | `service_unavailable` | The API is temporarily unavailable. |
+
 ## Endpoint examples
 
 ### List modules
@@ -220,7 +256,7 @@ curl "https://api.patcher.xyz/v1/modules?limit=25&sort=name&fields=id,name,manuf
 ### Get one module
 
 ```bash
-curl "https://api.patcher.xyz/v1/modules/plaits?include=ins,outs,tags,panels" \
+curl "https://api.patcher.xyz/v1/modules/123?include=ins,outs,tags,panels" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
 
@@ -234,7 +270,7 @@ curl "https://api.patcher.xyz/v1/manufacturers?limit=100&sort=name" \
 ### Get one manufacturer
 
 ```bash
-curl "https://api.patcher.xyz/v1/manufacturers/mutable-instruments?include=modules" \
+curl "https://api.patcher.xyz/v1/manufacturers/10?include=modules" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
 
