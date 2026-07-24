@@ -4,7 +4,7 @@ The Patcher Public Open API is live at `https://api.patcher.xyz/v1` for reading 
 
 Every catalogue request requires an API key. There is no anonymous catalogue API access.
 
-The source-of-truth OpenAPI document tracks the implementation:
+The source-of-truth OpenAPI document tracks the live implementation:
 
 - [Download the OpenAPI YAML](https://raw.githubusercontent.com/Polyterative/Patcher/develop/cloudflare/public-api/openapi.yaml)
 - [View the OpenAPI source on GitHub](https://github.com/Polyterative/Patcher/blob/develop/cloudflare/public-api/openapi.yaml)
