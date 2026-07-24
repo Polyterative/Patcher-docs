@@ -39,4 +39,4 @@
 ## REFERENCE
 
 * [Modular Glossary](learn/modular-glossary.md)
-* [Public Open API Preview](learn/public-open-api.md)
+* [Public Open API](learn/public-open-api.md)

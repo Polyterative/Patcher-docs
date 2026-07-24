@@ -51,7 +51,7 @@ For a walk-through of a first useful session, see [Quick start](what-is-this/qui
 - [Discord community](https://discord.gg/JNy2HTb5ru)
 - [GitHub project](https://github.com/Polyterative/Patcher)
 - [Status page](https://patcher.statuspage.io/)
-- [Public Open API Preview](learn/public-open-api.md)
+- [Public Open API](learn/public-open-api.md)
 
 ---
 

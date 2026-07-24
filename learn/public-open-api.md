@@ -1,17 +1,14 @@
-# Public Open API Preview
+# Public Open API
 
-The Patcher Public Open API is a preview interface for reading catalogue data from Patcher.
+The Patcher Public Open API is live at `https://api.patcher.xyz/v1` for reading catalogue data from Patcher.
 
-**Preview status:** the API is not available publicly yet. The planned base URL is
-`https://api.patcher.xyz/v1`, but endpoint availability follows the infrastructure rollout. Do not build
-production integrations against the URL until the rollout is announced.
+Every catalogue request requires an API key. There is no anonymous catalogue API access.
 
-The source-of-truth OpenAPI document tracks the preview implementation:
+The source-of-truth OpenAPI document tracks the implementation:
 
 - [Spec source on GitHub](https://github.com/Polyterative/Patcher/blob/develop/cloudflare/public-api/openapi.yaml)
 
-If the spec link returns `404`, the public implementation branch has not published the preview spec at that
-path yet.
+If the spec link returns `404`, source publication on the `develop` branch is still pending.
 
 ## What the API is for
 
@@ -22,7 +19,7 @@ Use the Public Open API to read Patcher catalogue data:
 - standards
 - tags
 
-## Available preview endpoints
+## Available endpoints
 
 | Endpoint | Purpose |
 | --- | --- |
@@ -42,7 +39,7 @@ it in an app, website, dataset, or generated output, include attribution to Patc
 
 ## What is not included
 
-The preview API does not expose:
+The API does not expose:
 
 - public patches or public racks
 - panel image filenames or panel image URLs
@@ -65,12 +62,12 @@ Keys use the wire format `Bearer pk_live_<22_base64url_chars>`. The examples bel
 placeholders only; never paste a real key into public docs, client-side source, screenshots, issue reports, or
 shared logs.
 
-API keys will be created from the existing Patcher User Area, but that UI is not implemented yet. Until the
-rollout is complete, you should treat key creation and endpoint access as unavailable.
+API keys will be created from the existing Patcher User Area, but that app release is still pending. Until
+self-service key creation is deployed, only already issued keys can call the API.
 
 ## Quickstart
 
-When the API is rolled out, start with the module list:
+Start with the module list:
 
 ```bash
 curl "https://api.patcher.xyz/v1/modules?limit=10&sort=name" \
@@ -93,7 +90,7 @@ The free tier allows:
 - 5,000 requests per month
 - 60 requests per minute
 
-Partner tier access may be granted manually. There is no anonymous tier and no paid tier in the preview.
+Partner tier access may be granted manually. There is no anonymous tier and no paid tier.
 
 Quota and rate limit headers are calculated per API key. Shared cache hits still authenticate the request and
 count against that key's quota.
@@ -179,7 +176,7 @@ curl "https://api.patcher.xyz/v1/modules?hp=8&standard=0&tag=42" \
 Tag records can include a `type`. Its value is one of `nature`, `character`, `voice`, `source`, `filter`,
 `modulation`, `effect`, `sequencing`, `utility`, `blank`, or `null`.
 
-`q` is reserved for future search support. In the preview implementation it returns a `400` error with the
+`q` is reserved for future search support. In the current implementation it returns a `400` error with the
 code `unsupported_parameter`.
 
 ## Includes
@@ -214,6 +211,8 @@ curl "https://api.patcher.xyz/v1/manufacturers/10?include=modules" \
 ## Caching with ETags
 
 Responses support `ETag` and `If-None-Match`.
+
+`HEAD` requests are supported for checking response headers without downloading a response body.
 
 ```bash
 curl "https://api.patcher.xyz/v1/modules?limit=10" \
@@ -294,7 +293,7 @@ curl "https://api.patcher.xyz/v1/tags?sort=name" \
 
 ## Roadmap notes
 
-The preview implementation intentionally excludes write operations, public patches, public racks, bulk JSONL
+The current API intentionally excludes write operations, public patches, public racks, bulk JSONL
 export, panel image file URLs, and commercial listing data. The API is designed around catalogue reads first;
 new endpoint families will be documented here and in the OpenAPI spec when they are ready.
 
