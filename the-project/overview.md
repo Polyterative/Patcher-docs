@@ -1,28 +1,36 @@
 # Project Overview
 
-This section covers the broader context around Patcher: what the project is, where it stands, how to get help, and where
-to find media or release information.
+This section holds everything that is _about_ Patcher rather than _how to use it_. Use it when you need context, help, contribution guidance, or media assets.
 
 ## What lives here
 
-- [FAQ](readme.md)
-- [About](about.md)
-- [Development status](development-status.md)
-- [Changelog](changelog.md)
-- [Contact us / Help / Community](contact-us-help-community.md)
-- [Press / media boilerplate](press-release.md)
-- [Official images](high-res-official-images.md)
+### Project
 
-## When to use this section
+- [FAQ](readme.md) — quick answers to common questions.
+- [About](about.md) — what Patcher is and what it deliberately is not.
+- [Development status](development-status.md) — what is shipping today, current release stamp.
+- [Changelog](changelog.md) — pointer to the GitHub `CHANGELOG.md` and the in-product `/info/changelog` route.
 
-Use these pages when you want to:
+### Support
 
-- understand the project beyond day-to-day product use
-- find support or community channels
-- check release direction
-- pull media assets or boilerplate
+- [Contact us / Help / Community](contact-us-help-community.md) — channel directory (Discord, GitHub issues, email).
+- [Support and status](support-and-status.md) — service status page, share-link behavior, bug reporting.
+- [Supported platforms](supported-platforms.md) — browsers, mobile, keyboard, skip link.
+- [Telemetry and privacy](telemetry-and-privacy.md) — what runs in production and why.
 
-If you want hands-on product guidance instead, go back to:
+### Contribution and openness
+
+- [Contributing](contributing.md) — repo-level code and docs contribution.
+- [AI and open data](ai-and-open-data.md) — public policy for AI crawlers, links to the canonical `patcher.xyz/llms.txt`.
+
+### Media
+
+- [Press / media boilerplate](press-release.md) — short description and boilerplate.
+- [Official images](high-res-official-images.md) — promo images and current product screenshots.
+
+## If you were looking for product guidance
+
+Go back to the product side of the docs:
 
 - [Quick start](../what-is-this/quick-start.md)
 - [Core Workflows](../learn-patcher.xyz/readme.md)

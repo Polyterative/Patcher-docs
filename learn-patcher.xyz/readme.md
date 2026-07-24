@@ -24,10 +24,16 @@ That is the simplest way to build a workspace worth returning to.
 - [Search and Discovery](search-and-discovery.md)
 - [Racks](racks.md)
 - [Patches](patches.md)
+- [Manuals](manuals.md)
 - [Public Profiles](public-profiles.md)
 - [Account and Privacy](account-and-privacy.md)
+- [Contributing module data](contributing-module-data.md)
 
 ## Where to start
 
 - If you are new, begin with [Quick start](../what-is-this/quick-start.md).
 - If you already know the product, jump straight to [User Area](user-area.md) or [Modules](modules.md).
+
+## Reference
+
+If you hit a term you do not recognize, the [Modular Glossary](../learn/modular-glossary.md) explains the words used across these pages — collection, module, panel variant, patch, public profile, rack, recall, and user area — in one page.

@@ -1,18 +1,9 @@
 # Changelog
 
-For the authoritative history of app releases and code changes, use the main repository:
+For the authoritative history of app releases and code changes, use these sources:
 
-- [Patcher changelog on GitHub](https://github.com/Polyterative/Patcher/blob/develop/CHANGELOG.md)
-- [Patcher repository](https://github.com/Polyterative/Patcher)
+- **In-product** — the `/info/changelog` route inside Patcher shows the release history the way it appears to signed-in users.
+- **GitHub** — [Patcher `CHANGELOG.md`](https://github.com/Polyterative/Patcher/blob/develop/CHANGELOG.md) tracks commit-by-commit release notes.
+- **Repository** — [Patcher on GitHub](https://github.com/Polyterative/Patcher) for the full history.
 
-## High-level recent direction
-
-Notable product direction includes:
-
-- instance-aware patching for repeated modules
-- auto-save for patch state and edits
-- rack detail power analysis and balance analysis
-- multi-panel module support and improved panel handling
-- public profiles, contributor stats, and stronger discovery surfaces
-
-For commit-by-commit release history, open the GitHub changelog directly.
+For what is shipping today rather than a per-release log, see [Development status](development-status.md).

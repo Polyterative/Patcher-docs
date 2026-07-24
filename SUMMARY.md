@@ -3,6 +3,7 @@
 ## GETTING STARTED
 
 * [Overview](README.md)
+* [What is Patcher](what-is-this/readme.md)
 * [Quick start](what-is-this/quick-start.md)
 
 ## CORE WORKFLOWS
@@ -14,8 +15,10 @@
 * [Search and Discovery](learn-patcher.xyz/search-and-discovery.md)
 * [Racks](learn-patcher.xyz/racks.md)
 * [Patches](learn-patcher.xyz/patches.md)
+* [Manuals](learn-patcher.xyz/manuals.md)
 * [Public Profiles](learn-patcher.xyz/public-profiles.md)
 * [Account and Privacy](learn-patcher.xyz/account-and-privacy.md)
+* [Contributing module data](learn-patcher.xyz/contributing-module-data.md)
 
 ## PROJECT
 
@@ -25,6 +28,11 @@
 * [Development status](the-project/development-status.md)
 * [Changelog](the-project/changelog.md)
 * [Contact us / Help / Community](the-project/contact-us-help-community.md)
+* [Support and status](the-project/support-and-status.md)
+* [Supported platforms](the-project/supported-platforms.md)
+* [Telemetry and privacy](the-project/telemetry-and-privacy.md)
+* [AI and open data](the-project/ai-and-open-data.md)
+* [Contributing](the-project/contributing.md)
 * [Press / media boilerplate](the-project/press-release.md)
 * [Official images](the-project/high-res-official-images.md)
 

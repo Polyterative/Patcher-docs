@@ -2,10 +2,11 @@
 
 Racks are where planning becomes physical.
 
-Use them to model a real case, test an idea before rearranging hardware, or compare multiple layouts without losing the
-earlier version.
+Use them to model a real case, test an idea before rearranging hardware, or compare multiple layouts without losing the earlier version.
 
-![Racks browser on iPad Pro](../.gitbook/assets/patcher-racks-ipad-pro.png)
+![Rack editor showing a Eurorack case layout with module placement and analysis controls](../.gitbook/assets/patcher-racks.jpg)
+
+_The rack editor — build, rearrange, and analyze cases against your own collection._
 
 ## What racks are for
 
@@ -26,7 +27,7 @@ earlier version.
 
 The usual flow is:
 
-1. Add your real modules to your collection first.
+1. Add your real modules to your [Collection](collection.md) first.
 2. Open a rack.
 3. Add modules from the collection-driven workflow.
 4. Arrange them until the layout feels right.
@@ -35,15 +36,16 @@ This keeps the rack tied to the hardware you actually own instead of drifting in
 
 ## Edit and reorganize
 
-Racks are meant to be adjusted repeatedly.
+Racks are meant to be adjusted repeatedly. Common actions:
 
-Common actions include:
+- move modules visually
+- duplicate a module
+- delete a module
+- replace a module with a blank panel
+- clear part of a row when you want to rethink a section
+- use **undo** to step back from an edit that did not land well
 
-- moving modules visually
-- duplicating a module
-- deleting a module
-- replacing a module with a blank panel
-- clearing part of a row when you want to rethink a section
+The editor shows a **stale preview** indicator when the rack preview is behind your most recent edits, so you always know whether what you are looking at reflects the current state.
 
 ## Blank panels and spacing
 
@@ -56,50 +58,46 @@ That is useful for:
 - representing intentional empty HP
 - planning future additions
 
-## Analysis and fit
+## Analysis modes
 
-Rack detail is more than a visual builder.
+Power, function, layout, and signal analysis modes; layout mode adds Same HP/Combos suggestions plus Remix and Shuffle, subject to valid row formats and available module metadata.
 
-Use it to review practical constraints such as:
+Each mode reads the rack from a different angle:
 
-- module count
-- fit and arrangement
-- power analysis
-- function and balance-oriented analysis
+- **Power** — draw across the main rails, so you can spot overloads before wiring anything.
+- **Function** — modules grouped by role instead of only by placement, giving you a per-category readout of what the rack can do.
+- **Layout** — arrangement help. **Same HP** suggests modules that fit the same slot; **Combos** proposes complementary neighbors; **Remix** rearranges the rack while keeping the same modules; **Shuffle** produces a fresh randomized layout. Layout suggestions need valid row formats and enough module metadata to be meaningful.
+- **Signal** — signal-path context for the rack as a whole.
 
-These views help you spot problems before they turn into physical changes.
+The rack also surfaces a **weakest-axis** hint that names which analytical axis (power, function coverage, category balance, and similar) is the weakest for the current layout — useful when you want a single line of feedback instead of a full sweep.
 
-Power analysis helps you review draw across the main rails.
-
-Function analysis helps you read the rack by role instead of only by placement.
-
-Balance views depend on module data coverage, so they are most useful when the modules in the rack have enough category
-data to support meaningful analysis.
+**Balance** context depends on module data coverage: it is most useful when the modules in the rack have enough category and function metadata to support meaningful comparison. Treat sparse output as a data-coverage issue, not a limitation of the analysis. See [Contributing module data](contributing-module-data.md) if you want to help close a gap.
 
 ## Panel variants
 
 Some modules support more than one panel image or style.
 
-When available, you can switch variants inside a rack so the layout better matches the real hardware in front of you.
-That is especially useful when the same module exists in different finishes or panel revisions.
+When available, you can switch variants inside a rack so the layout better matches the real hardware in front of you. This is especially useful when the same module exists in different finishes or panel revisions.
 
 ## Saving and sharing
 
-Racks are built for iteration. Open them, edit them, and keep refining.
+Racks are built for iteration. Open them, edit them, and keep refining. Patcher saves your work as you go.
 
-New racks currently start public, so check the sharing toggle if you want a rack private while you iterate.
+New racks and patches start Public. You can switch them to **Private** before creation or at any time later.
 
-For public discovery, the rack itself needs to be public and your profile also needs to be public.
+For public discovery, both the rack itself and your profile need to be public. See [Public Profiles](public-profiles.md) for how profile and item visibility interact, and [Account and Privacy](account-and-privacy.md) for the full sharing model.
 
 ## Best practices
 
 - start with the modules you own
 - leave some room when that helps usability
-- check rack analysis before calling a layout finished
+- run each analysis mode before calling a layout finished
 - keep separate racks for alternate versions instead of overwriting one plan
 
 ## Related pages
 
 - [Collection](collection.md)
 - [User Area](user-area.md)
+- [Patches](patches.md)
 - [Public Profiles](public-profiles.md)
+- [Modular glossary](../learn/modular-glossary.md)

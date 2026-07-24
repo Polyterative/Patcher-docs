@@ -67,4 +67,9 @@ Once the collection feels accurate, move on to:
 - [User Area](user-area.md)
 - [Racks](racks.md)
 - [Patches](patches.md)
+- [Manuals](manuals.md)
 - [Public Profiles](public-profiles.md)
+
+If a module you own is not yet in the catalogue, or its record is thin, see [Contributing module data](contributing-module-data.md).
+
+For terms used on this page, see the [Modular Glossary](../learn/modular-glossary.md).

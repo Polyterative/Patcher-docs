@@ -2,14 +2,7 @@
 
 This is the fastest way to get practical value out of Patcher.
 
-## The short version
-
-1. Browse modules without signing in.
-2. Create an account when you want to save your own work.
-3. Add the modules you own to your collection.
-4. Build a rack to check fit and layout.
-5. Create a patch to save routing and notes.
-6. Review your sharing settings before you share links publicly.
+For the shortest overview of the whole ladder — browse, collect, plan, capture, share — see the [Docs home](../README.md).
 
 ## First useful session
 
@@ -21,15 +14,15 @@ Open module detail pages to check:
 
 - size and format
 - power information
-- panel images
-- related public racks and patches
+- panel images and panel variants
+- related public racks and public patches
 - manual links when they are available
 
 Read more: [Modules](../learn-patcher.xyz/modules.md)
 
 ### 2. Create an account
 
-You can explore public data without an account, but you need one to build your own workspace.
+You can explore public data without an account, but you need one to build your own workspace. See [Account and Privacy](../learn-patcher.xyz/account-and-privacy.md) for sign-in options.
 
 After signing up, your workspace becomes available through **User Area**.
 
@@ -41,7 +34,7 @@ Once modules are in your collection, they become available for:
 
 - planning racks
 - building patches
-- gathering manuals in one place
+- gathering manuals in one place under [User Area](../learn-patcher.xyz/user-area.md)
 
 Read more: [Collection](../learn-patcher.xyz/collection.md)
 
@@ -54,8 +47,9 @@ You can:
 - add modules from your collection
 - move modules visually
 - duplicate modules
-- replace modules with blanks for spacing
-- review fit plus rack analysis tools such as power and function views
+- replace modules with blank panels for spacing
+- undo an edit that did not land well
+- run rack analysis — power, function, layout, and signal — before committing to a layout
 
 Read more: [Racks](../learn-patcher.xyz/racks.md)
 
@@ -70,26 +64,24 @@ Use patches to save:
 - names and descriptions
 - notes worth revisiting later
 
-Repeated modules stay distinct, which matters when a patch includes more than one copy of the same hardware.
+Repeated copies of the same module stay distinct as numbered instances, which matters when a patch uses more than one copy of the same hardware.
+
+Patches also expose a graph view, a fullscreen mode, and a PNG export when you want to share the layout as an image.
 
 Read more: [Patches](../learn-patcher.xyz/patches.md)
 
-### 6. Review sharing settings before you share links
+### 6. Review sharing before you share links
 
 Patcher supports both private workspace use and public sharing.
 
-Public browsing only shows racks and patches that are marked public and belong to a public profile.
+New racks and patches start Public. You can switch them to **Private** before creation or at any time later. See [Racks](../learn-patcher.xyz/racks.md) and [Patches](../learn-patcher.xyz/patches.md) for the Private toggle in detail, and [Account and Privacy](../learn-patcher.xyz/account-and-privacy.md) for the full model.
 
-New racks and patches currently start public, so check their sharing toggle if you want to keep them private while you
-work.
-
-Read more:
-
-- [Public Profiles](../learn-patcher.xyz/public-profiles.md)
-- [Account and Privacy](../learn-patcher.xyz/account-and-privacy.md)
+For public discovery, both the item and the profile need to be public. See [Public Profiles](../learn-patcher.xyz/public-profiles.md).
 
 ## Where to go next
 
 - [User Area](../learn-patcher.xyz/user-area.md)
+- [Manuals](../learn-patcher.xyz/manuals.md)
+- [Contributing module data](../learn-patcher.xyz/contributing-module-data.md)
 - [FAQ](../the-project/readme.md)
 - [Contact / Community](../the-project/contact-us-help-community.md)

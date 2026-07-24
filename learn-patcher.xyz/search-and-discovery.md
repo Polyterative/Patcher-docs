@@ -27,16 +27,22 @@ User Area itself requires a signed-in account.
 
 Patcher currently supports discovery through:
 
-- module search and browsing
-- related public racks and patches from module pages
+- module search and browsing, with grouped Any / All tag filters and manufacturer filters
+- related public racks and patches surfaced from module detail pages
 - public rack browsing
 - public patch browsing
 - public profiles
-- global search inside your user area
+- global search inside your [User Area](user-area.md)
+
+## Community trends
+
+**Community trends** is the public read-out of what is currently drawing attention across Patcher — which modules are being added, which racks are being viewed, which patches are being opened. Use it when you want a discovery entry point that is not driven by a specific search or a module you already know about.
+
+Community trends is a public surface, so it works whether you are signed in or not. Treat it as a starting point for exploration rather than a ranking of quality.
 
 ## Best way to use it
 
-1. Start broad in the public catalogue.
+1. Start broad in the public catalogue or in community trends.
 2. Save the modules that matter to your collection.
 3. Use User Area search once your own workspace grows.
 4. Follow related public examples when you need context, ideas, or comparisons.
@@ -45,4 +51,7 @@ Patcher currently supports discovery through:
 
 - [Modules](modules.md)
 - [User Area](user-area.md)
+- [Racks](racks.md)
+- [Patches](patches.md)
 - [Public Profiles](public-profiles.md)
+- [Modular Glossary](../learn/modular-glossary.md)
