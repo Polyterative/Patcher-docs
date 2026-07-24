@@ -33,8 +33,9 @@ Use the Public Open API to read Patcher catalogue data:
 | `GET /v1/standards` | List standards. |
 | `GET /v1/tags` | List tags. |
 
-All resource IDs and ID-valued filters are positive integers. That includes module IDs, manufacturer IDs, and
-the values passed to `manufacturer_id`, `standard`, and `tag`.
+Module, manufacturer, and tag IDs are positive integers. Standard IDs are nonnegative integers because `0` is
+valid and means 3U. The `standard` filter accepts `0`; `manufacturer_id` and `tag` filter values must be
+positive integers.
 
 The catalogue data is published under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). If you use
 it in an app, website, dataset, or generated output, include attribution to Patcher.
@@ -171,9 +172,12 @@ curl "https://api.patcher.xyz/v1/modules?manufacturer_id=10&sort=name" \
 ```
 
 ```bash
-curl "https://api.patcher.xyz/v1/modules?hp=8&standard=1&tag=42" \
+curl "https://api.patcher.xyz/v1/modules?hp=8&standard=0&tag=42" \
   -H "Authorization: Bearer $PATCHER_PUBLIC_API_KEY"
 ```
+
+Tag records can include a `type`. Its value is one of `nature`, `character`, `voice`, `source`, `filter`,
+`modulation`, `effect`, `sequencing`, `utility`, `blank`, or `null`.
 
 `q` is reserved for future search support. In the preview implementation it returns a `400` error with the
 code `unsupported_parameter`.
@@ -239,7 +243,7 @@ Keep the `request_id` when reporting a problem.
 | Status | `error.code` | Meaning |
 | --- | --- | --- |
 | `400` | `unknown_parameter`, `invalid_parameter`, `unsupported_parameter` | The request contains an unknown, invalid, reserved, or unsupported parameter. |
-| `401` | `missing_authorization`, `malformed_authorization`, `invalid_key` | The API key is missing, malformed, or not accepted. |
+| `401` | `missing_authorization`, `malformed_authorization`, `invalid_key` | The API key is missing, malformed, or not accepted. Revoked and unknown credentials both return `invalid_key`. |
 | `404` | `not_found` | The requested resource does not exist. |
 | `429` | `rate_limit_exceeded` | The key exceeded a monthly or per-minute quota. Check `Retry-After`. |
 | `503` | `configuration_error`, `authentication_unavailable`, `quota_unavailable`, `origin_unavailable` | The API is temporarily unavailable or not fully configured. |
