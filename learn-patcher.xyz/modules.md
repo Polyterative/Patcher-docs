@@ -98,3 +98,4 @@ Manual links become more useful as your collection grows, because Patcher also s
 - [Manuals](manuals.md)
 - [Contributing module data](contributing-module-data.md)
 - [Modular glossary](../learn/modular-glossary.md)
+- [Public Open API Preview](../learn/public-open-api.md)
