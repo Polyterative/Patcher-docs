@@ -6,8 +6,8 @@ Every catalogue request requires an API key. There is no anonymous catalogue API
 
 The source-of-truth OpenAPI document tracks the implementation:
 
-- [OpenAPI YAML](https://raw.githubusercontent.com/Polyterative/Patcher/develop/cloudflare/public-api/openapi.yaml)
-- [Spec source on GitHub](https://github.com/Polyterative/Patcher/blob/develop/cloudflare/public-api/openapi.yaml)
+- [Download the OpenAPI YAML](https://raw.githubusercontent.com/Polyterative/Patcher/develop/cloudflare/public-api/openapi.yaml)
+- [View the OpenAPI source on GitHub](https://github.com/Polyterative/Patcher/blob/develop/cloudflare/public-api/openapi.yaml)
 
 ## What the API is for
 
