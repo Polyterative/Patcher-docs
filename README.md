@@ -28,6 +28,10 @@ For a walk-through of a first useful session, see [Quick start](what-is-this/qui
 - **Keeping public browsing open** so modules, racks, and patches stay easy to explore.
 - **Letting you share selectively** through public racks, public patches, and public profiles.
 
+## Public Open API
+
+Patcher also ships a key-required Public Open API, live at `api.patcher.xyz`, for reading catalogue data — modules, manufacturers, standards, and tags. There is no anonymous access, and it does not yet cover public patches, public racks, panel images, or pricing. See [Public Open API](learn/public-open-api.md) for endpoints and examples.
+
 ## Guided reading
 
 - [What is Patcher?](what-is-this/readme.md)
