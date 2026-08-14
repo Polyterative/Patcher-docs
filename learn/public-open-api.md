@@ -243,6 +243,7 @@ Keep the `request_id` when reporting a problem.
 | `400` | `unknown_parameter`, `invalid_parameter`, `unsupported_parameter` | The request contains an unknown, invalid, reserved, or unsupported parameter. |
 | `401` | `missing_authorization`, `malformed_authorization`, `invalid_key` | The API key is missing, malformed, or not accepted. Revoked and unknown credentials both return `invalid_key`. |
 | `404` | `not_found` | The requested resource does not exist. |
+| `405` | `method_not_allowed` | Only `GET`, `HEAD`, and `OPTIONS` are supported; returned with an `Allow` header before authentication is checked. |
 | `429` | `rate_limit_exceeded` | The key exceeded a monthly or per-minute quota. Check `Retry-After`. |
 | `503` | `configuration_error`, `authentication_unavailable`, `quota_unavailable`, `origin_unavailable` | The API is temporarily unavailable or not fully configured. |
 
